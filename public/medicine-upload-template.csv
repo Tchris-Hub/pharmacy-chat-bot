@@ -1,0 +1,6 @@
+name,description,stock_quantity,price,category,requires_prescription
+Paracetamol,Pain relief and fever reducer,250,5.99,Painkillers,false
+Amoxicillin,Antibiotic for bacterial infections,150,12.50,Antibiotics,true
+Ibuprofen,Anti-inflammatory pain reliever,300,7.50,Painkillers,false
+Cetirizine,Antihistamine for allergies,200,4.99,Allergy,false
+Omeprazole,Reduces stomach acid,180,15.00,Digestive,true
