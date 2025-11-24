@@ -1,6 +1,999 @@
 name,description,stock_quantity,price,category,requires_prescription
-Paracetamol,Pain relief and fever reducer,250,5.99,Painkillers,false
-Amoxicillin,Antibiotic for bacterial infections,150,12.50,Antibiotics,true
-Ibuprofen,Anti-inflammatory pain reliever,300,7.50,Painkillers,false
-Cetirizine,Antihistamine for allergies,200,4.99,Allergy,false
-Omeprazole,Reduces stomach acid,180,15.00,Digestive,true
+Paracetamol,Pain relief and fever reducer,93,5.99,Painkillers,false
+Ibuprofen,Anti-inflammatory pain reliever,88,7.5,Painkillers,false
+Aspirin,Pain relief and blood thinner,84,4.5,Painkillers,false
+Amoxicillin,Antibiotic for bacterial infections,399,12.5,Antibiotics,true
+Azithromycin,Macrolide antibiotic,478,15.0,Antibiotics,true
+Cetirizine,Antihistamine for allergies,278,4.99,Antihistamines,false
+Loratadine,Non-drowsy antihistamine,343,6.5,Antihistamines,false
+Omeprazole,Reduces stomach acid,481,15.0,Antacids,true
+Ranitidine,H2 blocker for heartburn,221,8.5,Antacids,false
+Metformin,Diabetes medication,284,18.0,Diabetes,true
+Atorvastatin,Cholesterol medication,225,22.0,Cardiovascular,true
+Lisinopril,Blood pressure medication,486,16.5,Cardiovascular,true
+Albuterol,Bronchodilator for asthma,160,25.0,Respiratory,true
+Prednisone,Corticosteroid anti-inflammatory,351,12.0,Respiratory,true
+Vitamin D3,Vitamin supplement,276,8.99,Supplements,false
+Vitamin C,Immune support vitamin,288,6.5,Supplements,false
+Calcium Carbonate,Calcium supplement,453,7.99,Supplements,false
+Multivitamin,Daily vitamin supplement,265,12.99,Supplements,false
+OFloxacin 231mg,Treats bacterial infections,271,51.15,Antibiotics,true
+FCycline,Treats bacterial infections,103,56.69,Antibiotics,true
+EMycin,Treats bacterial infections,555,39.71,Antibiotics,true
+TCillin 174mg,Treats bacterial infections,465,18.88,Antibiotics,true
+AMycin,Treats bacterial infections,755,74.82,Antibiotics,true
+ACycline,Treats bacterial infections,123,59.02,Antibiotics,true
+LCycline 394mg,Treats bacterial infections,213,68.79,Antibiotics,true
+CCycline,Treats bacterial infections,703,34.17,Antibiotics,true
+IMycin,Treats bacterial infections,375,79.94,Antibiotics,true
+TCycline 276mg,Treats bacterial infections,702,53.57,Antibiotics,true
+VFloxacin,Treats bacterial infections,679,55.39,Antibiotics,true
+OCillin,Treats bacterial infections,222,64.88,Antibiotics,true
+CCycline 407mg,Treats bacterial infections,750,46.63,Antibiotics,true
+SCycline,Treats bacterial infections,202,48.97,Antibiotics,true
+IMycin,Treats bacterial infections,725,42.36,Antibiotics,true
+HFloxacin 334mg,Treats bacterial infections,714,69.17,Antibiotics,true
+PFloxacin,Treats bacterial infections,739,25.69,Antibiotics,true
+GFloxacin,Treats bacterial infections,665,55.77,Antibiotics,true
+LFloxacin 361mg,Treats bacterial infections,36,58.34,Antibiotics,true
+SMycin,Treats bacterial infections,58,6.65,Antibiotics,true
+BFloxacin,Treats bacterial infections,386,17.55,Antibiotics,true
+RCycline 415mg,Treats bacterial infections,614,29.32,Antibiotics,true
+GCycline,Treats bacterial infections,468,10.95,Antibiotics,true
+BCillin,Treats bacterial infections,245,43.73,Antibiotics,true
+ECillin 347mg,Treats bacterial infections,247,17.98,Antibiotics,true
+CFloxacin,Treats bacterial infections,558,60.1,Antibiotics,true
+PFloxacin,Treats bacterial infections,727,23.59,Antibiotics,true
+GMycin 36mg,Treats bacterial infections,470,22.88,Antibiotics,true
+LMycin,Treats bacterial infections,507,89.9,Antibiotics,true
+CCycline,Treats bacterial infections,549,76.38,Antibiotics,true
+SCillin 313mg,Treats bacterial infections,255,55.46,Antibiotics,true
+BFloxacin,Treats bacterial infections,441,60.01,Antibiotics,true
+DMycin,Treats bacterial infections,531,14.71,Antibiotics,true
+TCycline 126mg,Treats bacterial infections,590,32.59,Antibiotics,true
+RFloxacin,Treats bacterial infections,540,6.56,Antibiotics,true
+OCillin,Treats bacterial infections,755,61.14,Antibiotics,true
+PFloxacin 74mg,Treats bacterial infections,323,34.17,Antibiotics,true
+GCycline,Treats bacterial infections,720,4.47,Antibiotics,true
+FCycline,Treats bacterial infections,384,64.26,Antibiotics,true
+GFloxacin 198mg,Treats bacterial infections,318,71.49,Antibiotics,true
+ZCycline,Treats bacterial infections,794,5.93,Antibiotics,true
+TFloxacin,Treats bacterial infections,529,18.61,Antibiotics,true
+HMycin 151mg,Treats bacterial infections,213,66.35,Antibiotics,true
+AFloxacin,Treats bacterial infections,690,16.28,Antibiotics,true
+RFloxacin,Treats bacterial infections,66,13.17,Antibiotics,true
+OCillin 305mg,Treats bacterial infections,251,62.99,Antibiotics,true
+ACycline,Treats bacterial infections,335,52.22,Antibiotics,true
+BCycline,Treats bacterial infections,572,49.19,Antibiotics,true
+TCycline 332mg,Treats bacterial infections,184,38.74,Antibiotics,true
+VCillin,Treats bacterial infections,713,62.47,Antibiotics,true
+BMycin,Treats bacterial infections,720,84.94,Antibiotics,true
+CFloxacin 113mg,Treats bacterial infections,521,21.05,Antibiotics,true
+BCycline,Treats bacterial infections,724,63.16,Antibiotics,true
+PCillin,Treats bacterial infections,788,51.48,Antibiotics,true
+ZCillin 77mg,Treats bacterial infections,287,4.79,Antibiotics,true
+PCycline,Treats bacterial infections,231,41.63,Antibiotics,true
+HMycin,Treats bacterial infections,405,26.88,Antibiotics,true
+IMycin 107mg,Treats bacterial infections,414,55.38,Antibiotics,true
+LMycin,Treats bacterial infections,487,38.25,Antibiotics,true
+IMycin,Treats bacterial infections,396,82.47,Antibiotics,true
+ACycline 464mg,Treats bacterial infections,44,70.39,Antibiotics,true
+ZFloxacin,Treats bacterial infections,698,60.86,Antibiotics,true
+ACillin,Treats bacterial infections,158,18.23,Antibiotics,true
+ZCycline 86mg,Treats bacterial infections,32,18.85,Antibiotics,true
+FCycline,Treats bacterial infections,122,73.38,Antibiotics,true
+ACycline,Treats bacterial infections,465,53.48,Antibiotics,true
+OFloxacin 412mg,Treats bacterial infections,173,53.26,Antibiotics,true
+RFloxacin,Treats bacterial infections,150,50.06,Antibiotics,true
+ZMycin,Treats bacterial infections,93,86.6,Antibiotics,true
+HCycline 170mg,Treats bacterial infections,385,49.39,Antibiotics,true
+GCillin,Treats bacterial infections,672,73.99,Antibiotics,true
+FFloxacin,Treats bacterial infections,543,40.77,Antibiotics,true
+VCillin 156mg,Treats bacterial infections,376,77.42,Antibiotics,true
+ZCillin,Treats bacterial infections,279,32.38,Antibiotics,true
+SMycin,Treats bacterial infections,795,66.41,Antibiotics,true
+SCillin 299mg,Treats bacterial infections,98,36.07,Antibiotics,true
+HMycin,Treats bacterial infections,136,62.73,Antibiotics,true
+LCycline,Treats bacterial infections,694,74.1,Antibiotics,true
+ECillin 356mg,Treats bacterial infections,260,54.47,Antibiotics,true
+BCillin,Treats bacterial infections,573,20.58,Antibiotics,true
+IMycin,Treats bacterial infections,543,75.3,Antibiotics,true
+EFloxacin 22mg,Treats bacterial infections,732,34.74,Antibiotics,true
+TFloxacin,Treats bacterial infections,185,8.2,Antibiotics,true
+GCillin,Treats bacterial infections,619,45.78,Antibiotics,true
+LCycline 396mg,Treats bacterial infections,723,18.63,Antibiotics,true
+OCycline,Treats bacterial infections,157,17.86,Antibiotics,true
+TFloxacin,Treats bacterial infections,132,12.32,Antibiotics,true
+NCycline 461mg,Treats bacterial infections,427,9.49,Antibiotics,true
+PMycin,Treats bacterial infections,620,48.18,Antibiotics,true
+RCillin,Treats bacterial infections,332,20.22,Antibiotics,true
+ZCillin 230mg,Treats bacterial infections,112,9.73,Antibiotics,true
+TCillin,Treats bacterial infections,484,4.54,Antibiotics,true
+ZCillin,Treats bacterial infections,616,80.96,Antibiotics,true
+ZCillin 44mg,Treats bacterial infections,110,79.29,Antibiotics,true
+PMycin,Treats bacterial infections,680,36.23,Antibiotics,true
+CFloxacin,Treats bacterial infections,477,60.17,Antibiotics,true
+NCillin 307mg,Treats bacterial infections,313,80.59,Antibiotics,true
+ZFloxacin,Treats bacterial infections,672,40.42,Antibiotics,true
+LFen 164mg,Relieves pain and inflammation,54,54.44,Painkillers,true
+PPam,Relieves pain and inflammation,198,17.14,Painkillers,false
+ZPam,Relieves pain and inflammation,377,8.27,Painkillers,false
+MCodone 127mg,Relieves pain and inflammation,389,79.69,Painkillers,false
+HPam,Relieves pain and inflammation,532,80.2,Painkillers,false
+OCodone,Relieves pain and inflammation,393,70.62,Painkillers,false
+NFen 24mg,Relieves pain and inflammation,225,56.42,Painkillers,true
+SPam,Relieves pain and inflammation,337,75.71,Painkillers,false
+VCodone,Relieves pain and inflammation,255,87.75,Painkillers,true
+HGesic 452mg,Relieves pain and inflammation,656,24.78,Painkillers,true
+OPam,Relieves pain and inflammation,104,64.28,Painkillers,false
+GPam,Relieves pain and inflammation,31,20.57,Painkillers,true
+SCodone 224mg,Relieves pain and inflammation,538,53.93,Painkillers,false
+LPam,Relieves pain and inflammation,343,70.31,Painkillers,false
+TGesic,Relieves pain and inflammation,706,54.18,Painkillers,false
+BFen 215mg,Relieves pain and inflammation,328,45.02,Painkillers,true
+RGesic,Relieves pain and inflammation,521,56.69,Painkillers,false
+IFen,Relieves pain and inflammation,662,34.94,Painkillers,false
+FPam 78mg,Relieves pain and inflammation,511,52.72,Painkillers,false
+RFen,Relieves pain and inflammation,66,52.35,Painkillers,false
+GFen,Relieves pain and inflammation,483,52.49,Painkillers,true
+PGesic 19mg,Relieves pain and inflammation,278,45.16,Painkillers,false
+NFen,Relieves pain and inflammation,729,15.27,Painkillers,false
+CFen,Relieves pain and inflammation,77,15.0,Painkillers,false
+SGesic 58mg,Relieves pain and inflammation,149,35.19,Painkillers,false
+NPam,Relieves pain and inflammation,586,20.04,Painkillers,false
+RGesic,Relieves pain and inflammation,201,86.51,Painkillers,true
+FGesic 411mg,Relieves pain and inflammation,328,17.45,Painkillers,false
+MFen,Relieves pain and inflammation,217,83.85,Painkillers,false
+OCodone,Relieves pain and inflammation,609,81.29,Painkillers,false
+CGesic 321mg,Relieves pain and inflammation,427,62.48,Painkillers,false
+TGesic,Relieves pain and inflammation,191,12.59,Painkillers,false
+LPam,Relieves pain and inflammation,353,16.62,Painkillers,true
+RPam 486mg,Relieves pain and inflammation,30,48.17,Painkillers,true
+EGesic,Relieves pain and inflammation,370,26.22,Painkillers,false
+ZGesic,Relieves pain and inflammation,29,87.08,Painkillers,false
+NPam 188mg,Relieves pain and inflammation,583,50.31,Painkillers,true
+OCodone,Relieves pain and inflammation,92,15.12,Painkillers,false
+IPam,Relieves pain and inflammation,456,12.83,Painkillers,false
+DCodone 497mg,Relieves pain and inflammation,423,73.8,Painkillers,false
+IGesic,Relieves pain and inflammation,663,70.23,Painkillers,false
+BFen,Relieves pain and inflammation,657,43.93,Painkillers,true
+MFen 271mg,Relieves pain and inflammation,484,88.29,Painkillers,true
+IPam,Relieves pain and inflammation,254,62.15,Painkillers,false
+VGesic,Relieves pain and inflammation,287,75.64,Painkillers,false
+APam 147mg,Relieves pain and inflammation,358,33.77,Painkillers,false
+CCodone,Relieves pain and inflammation,293,78.59,Painkillers,true
+ZPam,Relieves pain and inflammation,757,11.85,Painkillers,false
+LGesic 113mg,Relieves pain and inflammation,110,57.73,Painkillers,true
+BFen,Relieves pain and inflammation,457,74.6,Painkillers,false
+NCodone,Relieves pain and inflammation,797,24.0,Painkillers,false
+HFen 412mg,Relieves pain and inflammation,672,27.5,Painkillers,false
+LGesic,Relieves pain and inflammation,743,89.76,Painkillers,false
+PFen,Relieves pain and inflammation,625,77.69,Painkillers,false
+IGesic 36mg,Relieves pain and inflammation,724,58.56,Painkillers,false
+OCodone,Relieves pain and inflammation,617,9.34,Painkillers,false
+EPam,Relieves pain and inflammation,256,49.92,Painkillers,false
+GGesic 58mg,Relieves pain and inflammation,700,72.32,Painkillers,false
+IPam,Relieves pain and inflammation,616,69.73,Painkillers,false
+DPam,Relieves pain and inflammation,166,6.58,Painkillers,true
+VPam 164mg,Relieves pain and inflammation,298,23.38,Painkillers,false
+GFen,Relieves pain and inflammation,799,72.83,Painkillers,false
+IFen,Relieves pain and inflammation,349,61.74,Painkillers,true
+ZPam 33mg,Relieves pain and inflammation,517,15.35,Painkillers,true
+OCodone,Relieves pain and inflammation,357,63.85,Painkillers,false
+DCodone,Relieves pain and inflammation,453,74.13,Painkillers,false
+ZCodone 392mg,Relieves pain and inflammation,226,37.3,Painkillers,true
+HGesic,Relieves pain and inflammation,772,39.58,Painkillers,false
+FFen,Relieves pain and inflammation,394,16.69,Painkillers,true
+VPam 251mg,Relieves pain and inflammation,90,64.57,Painkillers,false
+CGesic,Relieves pain and inflammation,591,85.28,Painkillers,false
+IPam,Relieves pain and inflammation,392,23.58,Painkillers,false
+SGesic 445mg,Relieves pain and inflammation,724,23.32,Painkillers,false
+FCodone,Relieves pain and inflammation,463,83.59,Painkillers,false
+HFen,Relieves pain and inflammation,153,4.85,Painkillers,true
+APam 212mg,Relieves pain and inflammation,752,34.81,Painkillers,false
+ECodone,Relieves pain and inflammation,165,15.7,Painkillers,false
+PPam,Relieves pain and inflammation,756,67.44,Painkillers,true
+DCodone 134mg,Relieves pain and inflammation,571,63.77,Painkillers,true
+NCodone,Relieves pain and inflammation,119,36.31,Painkillers,false
+DGesic,Relieves pain and inflammation,734,11.48,Painkillers,true
+PPam 452mg,Relieves pain and inflammation,75,82.89,Painkillers,false
+CGesic,Relieves pain and inflammation,510,24.35,Painkillers,false
+ICodone,Relieves pain and inflammation,510,8.84,Painkillers,false
+CGesic 318mg,Relieves pain and inflammation,127,30.15,Painkillers,false
+ZFen,Relieves pain and inflammation,380,31.08,Painkillers,false
+FPam,Relieves pain and inflammation,483,35.27,Painkillers,false
+SPam 268mg,Relieves pain and inflammation,328,82.75,Painkillers,false
+AFen,Relieves pain and inflammation,734,24.08,Painkillers,true
+BPam,Relieves pain and inflammation,64,31.42,Painkillers,false
+CCodone 184mg,Relieves pain and inflammation,204,48.19,Painkillers,false
+ZFen,Relieves pain and inflammation,292,36.78,Painkillers,true
+EPam,Relieves pain and inflammation,458,75.09,Painkillers,false
+DGesic 308mg,Relieves pain and inflammation,206,56.56,Painkillers,false
+AFen,Relieves pain and inflammation,700,18.47,Painkillers,true
+NPam,Relieves pain and inflammation,639,64.63,Painkillers,false
+APam 376mg,Relieves pain and inflammation,64,21.94,Painkillers,false
+MGesic,Relieves pain and inflammation,79,34.73,Painkillers,false
+AIron 63mg,Nutritional supplement,673,69.74,Supplements,false
+BOmega,Nutritional supplement,604,69.33,Supplements,false
+EVitamin,Nutritional supplement,794,73.39,Supplements,false
+HCalcium 215mg,Nutritional supplement,654,79.54,Supplements,true
+COmega,Nutritional supplement,210,43.11,Supplements,true
+MZinc,Nutritional supplement,487,89.54,Supplements,false
+NIron 48mg,Nutritional supplement,338,20.49,Supplements,false
+EVitamin,Nutritional supplement,448,77.84,Supplements,true
+OVitamin,Nutritional supplement,287,26.67,Supplements,true
+BMagnesium 442mg,Nutritional supplement,784,12.22,Supplements,true
+AZinc,Nutritional supplement,491,72.03,Supplements,false
+DCalcium,Nutritional supplement,546,81.32,Supplements,false
+IVitamin 343mg,Nutritional supplement,221,40.83,Supplements,false
+HOmega,Nutritional supplement,243,9.39,Supplements,true
+OZinc,Nutritional supplement,153,66.83,Supplements,false
+IIron 160mg,Nutritional supplement,326,58.72,Supplements,true
+VVitamin,Nutritional supplement,406,4.19,Supplements,true
+EOmega,Nutritional supplement,227,46.07,Supplements,true
+TIron 164mg,Nutritional supplement,486,61.56,Supplements,false
+MIron,Nutritional supplement,361,66.33,Supplements,false
+ZMagnesium,Nutritional supplement,193,42.56,Supplements,false
+GIron 110mg,Nutritional supplement,657,15.67,Supplements,false
+EVitamin,Nutritional supplement,171,62.0,Supplements,true
+SOmega,Nutritional supplement,672,34.94,Supplements,false
+GMagnesium 237mg,Nutritional supplement,137,10.97,Supplements,false
+VOmega,Nutritional supplement,30,39.61,Supplements,false
+EVitamin,Nutritional supplement,62,55.01,Supplements,false
+TIron 420mg,Nutritional supplement,395,89.42,Supplements,false
+MOmega,Nutritional supplement,714,72.08,Supplements,true
+AMagnesium,Nutritional supplement,311,67.62,Supplements,false
+PMagnesium 486mg,Nutritional supplement,315,27.6,Supplements,false
+OIron,Nutritional supplement,149,82.41,Supplements,false
+LMagnesium,Nutritional supplement,150,43.66,Supplements,true
+DCalcium 316mg,Nutritional supplement,227,63.66,Supplements,true
+SVitamin,Nutritional supplement,526,43.76,Supplements,true
+ICalcium,Nutritional supplement,298,43.86,Supplements,false
+HZinc 493mg,Nutritional supplement,631,62.61,Supplements,false
+ICalcium,Nutritional supplement,720,68.9,Supplements,true
+RZinc,Nutritional supplement,611,39.9,Supplements,false
+ZIron 14mg,Nutritional supplement,335,70.93,Supplements,false
+AZinc,Nutritional supplement,275,75.01,Supplements,true
+GVitamin,Nutritional supplement,72,14.08,Supplements,true
+RVitamin 413mg,Nutritional supplement,105,85.35,Supplements,false
+MZinc,Nutritional supplement,609,16.57,Supplements,true
+BVitamin,Nutritional supplement,638,34.63,Supplements,false
+NMagnesium 160mg,Nutritional supplement,372,10.23,Supplements,true
+NIron,Nutritional supplement,768,78.69,Supplements,false
+RIron,Nutritional supplement,76,67.77,Supplements,true
+OOmega 357mg,Nutritional supplement,757,48.29,Supplements,false
+TVitamin,Nutritional supplement,594,66.21,Supplements,true
+ICalcium,Nutritional supplement,658,69.95,Supplements,false
+SIron 144mg,Nutritional supplement,784,39.25,Supplements,false
+VZinc,Nutritional supplement,523,47.27,Supplements,true
+IOmega,Nutritional supplement,278,46.37,Supplements,false
+EIron 225mg,Nutritional supplement,272,19.82,Supplements,false
+IIron,Nutritional supplement,749,13.43,Supplements,true
+MVitamin,Nutritional supplement,786,37.58,Supplements,true
+PIron 354mg,Nutritional supplement,156,77.06,Supplements,false
+MCalcium,Nutritional supplement,515,32.86,Supplements,false
+MOmega,Nutritional supplement,444,24.35,Supplements,false
+HIron 314mg,Nutritional supplement,688,18.26,Supplements,false
+ACalcium,Nutritional supplement,475,52.38,Supplements,false
+TCalcium,Nutritional supplement,557,13.59,Supplements,false
+TMagnesium 52mg,Nutritional supplement,37,53.13,Supplements,false
+VCalcium,Nutritional supplement,248,45.6,Supplements,true
+GMagnesium,Nutritional supplement,157,20.92,Supplements,true
+BOmega 267mg,Nutritional supplement,61,17.25,Supplements,false
+LVitamin,Nutritional supplement,477,55.15,Supplements,false
+GZinc,Nutritional supplement,466,84.9,Supplements,false
+ZZinc 44mg,Nutritional supplement,255,25.35,Supplements,false
+OCalcium,Nutritional supplement,749,10.19,Supplements,true
+TVitamin,Nutritional supplement,625,60.83,Supplements,false
+TOmega 263mg,Nutritional supplement,105,63.51,Supplements,true
+EMagnesium,Nutritional supplement,76,61.11,Supplements,true
+EMagnesium,Nutritional supplement,157,84.11,Supplements,false
+BMagnesium 187mg,Nutritional supplement,68,83.27,Supplements,true
+MZinc,Nutritional supplement,557,29.59,Supplements,true
+BOmega,Nutritional supplement,723,33.47,Supplements,true
+SCalcium 234mg,Nutritional supplement,20,52.62,Supplements,false
+RCalcium,Nutritional supplement,254,77.2,Supplements,false
+TOmega,Nutritional supplement,144,42.74,Supplements,true
+GVitamin 78mg,Nutritional supplement,502,67.51,Supplements,true
+COmega,Nutritional supplement,114,73.69,Supplements,false
+BOmega,Nutritional supplement,479,24.47,Supplements,false
+IIron 346mg,Nutritional supplement,382,15.08,Supplements,false
+OCalcium,Nutritional supplement,694,56.98,Supplements,false
+ZMagnesium,Nutritional supplement,777,43.8,Supplements,true
+ZOmega 107mg,Nutritional supplement,555,71.18,Supplements,true
+HVitamin,Nutritional supplement,147,75.96,Supplements,false
+IMagnesium,Nutritional supplement,562,63.72,Supplements,false
+SVitamin 105mg,Nutritional supplement,446,40.11,Supplements,true
+ZIron,Nutritional supplement,64,88.99,Supplements,true
+TZinc,Nutritional supplement,556,40.31,Supplements,false
+BIron 232mg,Nutritional supplement,260,53.59,Supplements,false
+VIron,Nutritional supplement,415,55.96,Supplements,false
+SMagnesium,Nutritional supplement,74,88.34,Supplements,false
+EIron 370mg,Nutritional supplement,786,16.5,Supplements,true
+RMagnesium,Nutritional supplement,424,46.26,Supplements,false
+DHist 272mg,Treats allergic reactions,241,42.23,Antihistamines,false
+ITamine,Treats allergic reactions,513,39.84,Antihistamines,false
+CHist,Treats allergic reactions,448,53.95,Antihistamines,false
+OHist 30mg,Treats allergic reactions,274,83.48,Antihistamines,false
+RHist,Treats allergic reactions,291,39.33,Antihistamines,false
+DHist,Treats allergic reactions,176,60.13,Antihistamines,false
+PDine 56mg,Treats allergic reactions,267,85.0,Antihistamines,false
+TTamine,Treats allergic reactions,64,13.06,Antihistamines,true
+MHist,Treats allergic reactions,672,84.5,Antihistamines,false
+SHist 11mg,Treats allergic reactions,160,39.72,Antihistamines,false
+DHist,Treats allergic reactions,475,84.57,Antihistamines,false
+MTamine,Treats allergic reactions,687,17.44,Antihistamines,false
+DTamine 24mg,Treats allergic reactions,408,65.39,Antihistamines,false
+EDine,Treats allergic reactions,355,9.98,Antihistamines,true
+IDine,Treats allergic reactions,28,9.52,Antihistamines,false
+BTamine 225mg,Treats allergic reactions,82,11.62,Antihistamines,false
+PTamine,Treats allergic reactions,79,75.63,Antihistamines,false
+HDine,Treats allergic reactions,80,66.55,Antihistamines,false
+ATamine 398mg,Treats allergic reactions,597,29.51,Antihistamines,false
+CHist,Treats allergic reactions,287,31.35,Antihistamines,false
+ZTamine,Treats allergic reactions,672,67.51,Antihistamines,false
+BDine 191mg,Treats allergic reactions,643,63.65,Antihistamines,true
+GTamine,Treats allergic reactions,447,11.83,Antihistamines,true
+IHist,Treats allergic reactions,544,24.31,Antihistamines,true
+BDine 83mg,Treats allergic reactions,288,59.25,Antihistamines,false
+EHist,Treats allergic reactions,208,29.96,Antihistamines,true
+MHist,Treats allergic reactions,394,60.37,Antihistamines,false
+EDine 114mg,Treats allergic reactions,188,57.6,Antihistamines,false
+GHist,Treats allergic reactions,208,5.94,Antihistamines,false
+MTamine,Treats allergic reactions,604,29.47,Antihistamines,false
+HHist 392mg,Treats allergic reactions,777,56.98,Antihistamines,false
+MTamine,Treats allergic reactions,549,46.61,Antihistamines,false
+PHist,Treats allergic reactions,512,34.53,Antihistamines,true
+ATamine 361mg,Treats allergic reactions,463,76.95,Antihistamines,true
+ZTamine,Treats allergic reactions,123,10.11,Antihistamines,false
+ZHist,Treats allergic reactions,763,86.51,Antihistamines,false
+MTamine 327mg,Treats allergic reactions,465,72.26,Antihistamines,false
+GHist,Treats allergic reactions,384,5.56,Antihistamines,false
+AHist,Treats allergic reactions,448,75.92,Antihistamines,false
+THist 460mg,Treats allergic reactions,64,7.83,Antihistamines,true
+VTamine,Treats allergic reactions,28,40.59,Antihistamines,true
+EDine,Treats allergic reactions,758,82.81,Antihistamines,false
+VHist 273mg,Treats allergic reactions,248,20.87,Antihistamines,false
+OTamine,Treats allergic reactions,685,72.29,Antihistamines,false
+AHist,Treats allergic reactions,213,38.05,Antihistamines,false
+SHist 277mg,Treats allergic reactions,596,6.73,Antihistamines,false
+CTamine,Treats allergic reactions,556,70.63,Antihistamines,false
+BDine,Treats allergic reactions,498,88.17,Antihistamines,false
+MDine 453mg,Treats allergic reactions,442,12.99,Antihistamines,false
+CDine,Treats allergic reactions,730,30.28,Antihistamines,false
+PTamine,Treats allergic reactions,763,34.05,Antihistamines,false
+VDine 483mg,Treats allergic reactions,443,56.89,Antihistamines,true
+VTamine,Treats allergic reactions,529,29.28,Antihistamines,false
+EDine,Treats allergic reactions,91,39.89,Antihistamines,false
+FDine 348mg,Treats allergic reactions,113,8.57,Antihistamines,true
+VHist,Treats allergic reactions,444,8.37,Antihistamines,true
+VHist,Treats allergic reactions,459,80.2,Antihistamines,false
+ZTamine 41mg,Treats allergic reactions,452,56.29,Antihistamines,false
+ZDine,Treats allergic reactions,326,47.8,Antihistamines,false
+NHist,Treats allergic reactions,563,26.08,Antihistamines,true
+VDine 150mg,Treats allergic reactions,619,34.14,Antihistamines,false
+ATamine,Treats allergic reactions,574,48.55,Antihistamines,true
+RTamine,Treats allergic reactions,477,26.38,Antihistamines,false
+RHist 255mg,Treats allergic reactions,766,23.55,Antihistamines,false
+LHist,Treats allergic reactions,237,5.91,Antihistamines,false
+VDine,Treats allergic reactions,420,64.43,Antihistamines,true
+MHist 120mg,Treats allergic reactions,79,43.46,Antihistamines,true
+HHist,Treats allergic reactions,708,21.28,Antihistamines,false
+CTamine,Treats allergic reactions,516,23.97,Antihistamines,true
+CDine 44mg,Treats allergic reactions,356,18.48,Antihistamines,false
+ODine,Treats allergic reactions,672,4.65,Antihistamines,true
+FDine,Treats allergic reactions,396,64.6,Antihistamines,false
+CDine 76mg,Treats allergic reactions,632,7.25,Antihistamines,false
+FHist,Treats allergic reactions,295,55.3,Antihistamines,false
+FHist,Treats allergic reactions,277,6.53,Antihistamines,true
+EHist 328mg,Treats allergic reactions,124,65.72,Antihistamines,false
+ATamine,Treats allergic reactions,112,61.98,Antihistamines,true
+FDine,Treats allergic reactions,289,74.18,Antihistamines,false
+TTamine 489mg,Treats allergic reactions,280,4.59,Antihistamines,false
+IDine,Treats allergic reactions,708,7.29,Antihistamines,false
+NDine,Treats allergic reactions,267,34.96,Antihistamines,false
+EHist 198mg,Treats allergic reactions,483,19.14,Antihistamines,false
+VTamine,Treats allergic reactions,350,18.64,Antihistamines,false
+DTamine,Treats allergic reactions,194,67.48,Antihistamines,true
+IDine 123mg,Treats allergic reactions,156,12.67,Antihistamines,false
+ITamine,Treats allergic reactions,464,69.51,Antihistamines,false
+ODine,Treats allergic reactions,500,78.92,Antihistamines,false
+SHist 332mg,Treats allergic reactions,697,11.12,Antihistamines,true
+LHist,Treats allergic reactions,620,30.69,Antihistamines,false
+MHist,Treats allergic reactions,702,27.53,Antihistamines,false
+DHist 291mg,Treats allergic reactions,757,54.7,Antihistamines,false
+NDine,Treats allergic reactions,691,67.83,Antihistamines,true
+LHist,Treats allergic reactions,152,83.52,Antihistamines,false
+RHist 388mg,Treats allergic reactions,267,32.37,Antihistamines,false
+EHist,Treats allergic reactions,385,89.39,Antihistamines,true
+NTamine,Treats allergic reactions,130,56.51,Antihistamines,false
+TDine 466mg,Treats allergic reactions,265,9.05,Antihistamines,false
+PTamine,Treats allergic reactions,132,29.3,Antihistamines,false
+ZTidine 497mg,Reduces stomach acid,99,70.63,Antacids,false
+SRazole,Reduces stomach acid,534,15.91,Antacids,true
+STidine,Reduces stomach acid,283,36.49,Antacids,false
+FRazole 245mg,Reduces stomach acid,188,58.91,Antacids,false
+ATidine,Reduces stomach acid,222,43.43,Antacids,true
+BTidine,Reduces stomach acid,680,7.25,Antacids,false
+MRazole 78mg,Reduces stomach acid,430,16.96,Antacids,true
+HTidine,Reduces stomach acid,241,48.48,Antacids,false
+PRazole,Reduces stomach acid,112,53.82,Antacids,true
+GAcid 180mg,Reduces stomach acid,537,46.65,Antacids,false
+BAcid,Reduces stomach acid,501,62.92,Antacids,false
+ORazole,Reduces stomach acid,392,12.69,Antacids,false
+PAcid 292mg,Reduces stomach acid,497,7.12,Antacids,false
+SAcid,Reduces stomach acid,364,75.71,Antacids,false
+HRazole,Reduces stomach acid,759,30.72,Antacids,true
+IRazole 470mg,Reduces stomach acid,84,85.89,Antacids,false
+MRazole,Reduces stomach acid,550,19.57,Antacids,false
+MAcid,Reduces stomach acid,506,79.98,Antacids,false
+GAcid 251mg,Reduces stomach acid,344,80.53,Antacids,false
+DTidine,Reduces stomach acid,254,84.88,Antacids,false
+MAcid,Reduces stomach acid,139,27.84,Antacids,false
+FTidine 26mg,Reduces stomach acid,84,56.59,Antacids,true
+LRazole,Reduces stomach acid,599,71.35,Antacids,false
+MTidine,Reduces stomach acid,204,63.54,Antacids,false
+EAcid 93mg,Reduces stomach acid,225,4.12,Antacids,false
+RRazole,Reduces stomach acid,239,52.56,Antacids,false
+MTidine,Reduces stomach acid,588,25.03,Antacids,false
+BAcid 66mg,Reduces stomach acid,456,44.3,Antacids,false
+ERazole,Reduces stomach acid,147,22.14,Antacids,false
+TRazole,Reduces stomach acid,621,58.76,Antacids,true
+ETidine 448mg,Reduces stomach acid,460,16.62,Antacids,false
+ITidine,Reduces stomach acid,465,31.02,Antacids,false
+FAcid,Reduces stomach acid,333,31.68,Antacids,true
+VRazole 313mg,Reduces stomach acid,639,61.04,Antacids,false
+ARazole,Reduces stomach acid,513,8.4,Antacids,false
+FTidine,Reduces stomach acid,40,15.82,Antacids,false
+SRazole 236mg,Reduces stomach acid,674,64.87,Antacids,false
+ERazole,Reduces stomach acid,661,33.92,Antacids,false
+ZRazole,Reduces stomach acid,511,55.75,Antacids,false
+SAcid 475mg,Reduces stomach acid,671,63.86,Antacids,false
+RAcid,Reduces stomach acid,76,11.07,Antacids,true
+GAcid,Reduces stomach acid,535,20.79,Antacids,true
+DTidine 356mg,Reduces stomach acid,260,51.52,Antacids,false
+TTidine,Reduces stomach acid,527,75.78,Antacids,true
+TTidine,Reduces stomach acid,104,30.76,Antacids,true
+NAcid 144mg,Reduces stomach acid,133,11.23,Antacids,false
+GAcid,Reduces stomach acid,31,13.08,Antacids,true
+SAcid,Reduces stomach acid,721,70.24,Antacids,false
+ERazole 436mg,Reduces stomach acid,21,61.84,Antacids,true
+ORazole,Reduces stomach acid,586,6.12,Antacids,true
+GTidine,Reduces stomach acid,713,88.61,Antacids,true
+LTidine 439mg,Reduces stomach acid,235,8.98,Antacids,true
+CRazole,Reduces stomach acid,251,82.98,Antacids,false
+RTidine,Reduces stomach acid,562,83.64,Antacids,true
+SAcid 286mg,Reduces stomach acid,207,32.11,Antacids,false
+FAcid,Reduces stomach acid,60,78.37,Antacids,false
+IAcid,Reduces stomach acid,704,75.7,Antacids,false
+CTidine 500mg,Reduces stomach acid,65,36.64,Antacids,false
+FAcid,Reduces stomach acid,567,27.35,Antacids,false
+LTidine,Reduces stomach acid,46,38.83,Antacids,false
+IAcid 431mg,Reduces stomach acid,595,88.18,Antacids,false
+CTidine,Reduces stomach acid,467,36.63,Antacids,true
+ERazole,Reduces stomach acid,657,73.96,Antacids,false
+DRazole 147mg,Reduces stomach acid,663,5.24,Antacids,false
+TRazole,Reduces stomach acid,317,15.61,Antacids,true
+NAcid,Reduces stomach acid,525,34.15,Antacids,true
+NAcid 122mg,Reduces stomach acid,757,15.56,Antacids,true
+ORazole,Reduces stomach acid,678,73.46,Antacids,false
+ORazole,Reduces stomach acid,710,43.13,Antacids,false
+ORazole 183mg,Reduces stomach acid,627,27.51,Antacids,true
+VRazole,Reduces stomach acid,35,43.46,Antacids,true
+HAcid,Reduces stomach acid,44,51.16,Antacids,true
+ZAcid 242mg,Reduces stomach acid,713,86.61,Antacids,false
+ZTidine,Reduces stomach acid,762,30.68,Antacids,false
+HRazole,Reduces stomach acid,317,44.36,Antacids,false
+EAcid 226mg,Reduces stomach acid,146,45.97,Antacids,false
+ARazole,Reduces stomach acid,609,14.07,Antacids,true
+BRazole,Reduces stomach acid,746,10.54,Antacids,false
+TRazole 485mg,Reduces stomach acid,609,22.08,Antacids,false
+GTidine,Reduces stomach acid,246,68.76,Antacids,false
+FTidine,Reduces stomach acid,500,69.79,Antacids,false
+TTidine 127mg,Reduces stomach acid,284,46.9,Antacids,false
+VAcid,Reduces stomach acid,579,49.85,Antacids,false
+NTidine,Reduces stomach acid,689,80.9,Antacids,true
+HAcid 224mg,Reduces stomach acid,200,33.01,Antacids,false
+OTidine,Reduces stomach acid,318,67.7,Antacids,false
+VTidine,Reduces stomach acid,558,57.67,Antacids,true
+ORazole 223mg,Reduces stomach acid,272,48.26,Antacids,false
+HTidine,Reduces stomach acid,434,64.51,Antacids,true
+MAcid,Reduces stomach acid,771,55.08,Antacids,true
+EAcid 178mg,Reduces stomach acid,39,6.64,Antacids,false
+BAcid,Reduces stomach acid,184,7.41,Antacids,false
+PTidine,Reduces stomach acid,378,58.85,Antacids,false
+FAcid 450mg,Reduces stomach acid,227,75.09,Antacids,false
+GTidine,Reduces stomach acid,634,88.23,Antacids,true
+GTidine,Reduces stomach acid,758,83.02,Antacids,true
+ARazole 471mg,Reduces stomach acid,578,54.53,Antacids,false
+LTidine,Reduces stomach acid,608,58.95,Antacids,true
+MOlol 368mg,Heart and blood pressure medication,542,48.05,Cardiovascular,true
+TSartan,Heart and blood pressure medication,335,13.18,Cardiovascular,true
+HSartan,Heart and blood pressure medication,501,23.04,Cardiovascular,true
+TSartan 463mg,Heart and blood pressure medication,235,76.22,Cardiovascular,true
+ZDipine,Heart and blood pressure medication,713,82.1,Cardiovascular,true
+OSartan,Heart and blood pressure medication,91,69.72,Cardiovascular,true
+IDipine 16mg,Heart and blood pressure medication,612,50.17,Cardiovascular,true
+ROlol,Heart and blood pressure medication,343,49.59,Cardiovascular,true
+ZPril,Heart and blood pressure medication,303,46.83,Cardiovascular,true
+PPril 57mg,Heart and blood pressure medication,636,42.17,Cardiovascular,true
+CSartan,Heart and blood pressure medication,40,56.15,Cardiovascular,true
+FOlol,Heart and blood pressure medication,731,52.83,Cardiovascular,true
+SSartan 467mg,Heart and blood pressure medication,626,78.01,Cardiovascular,true
+EPril,Heart and blood pressure medication,345,51.21,Cardiovascular,true
+SOlol,Heart and blood pressure medication,364,32.04,Cardiovascular,true
+IDipine 301mg,Heart and blood pressure medication,362,18.85,Cardiovascular,true
+BDipine,Heart and blood pressure medication,632,67.93,Cardiovascular,true
+ZOlol,Heart and blood pressure medication,724,47.41,Cardiovascular,true
+MOlol 50mg,Heart and blood pressure medication,225,17.98,Cardiovascular,true
+BOlol,Heart and blood pressure medication,71,46.73,Cardiovascular,true
+PSartan,Heart and blood pressure medication,512,86.71,Cardiovascular,true
+IPril 90mg,Heart and blood pressure medication,249,81.68,Cardiovascular,true
+IPril,Heart and blood pressure medication,800,56.82,Cardiovascular,true
+LPril,Heart and blood pressure medication,715,68.93,Cardiovascular,true
+RSartan 143mg,Heart and blood pressure medication,146,52.0,Cardiovascular,true
+MOlol,Heart and blood pressure medication,170,8.65,Cardiovascular,true
+GOlol,Heart and blood pressure medication,624,50.59,Cardiovascular,true
+DDipine 56mg,Heart and blood pressure medication,357,68.28,Cardiovascular,true
+MPril,Heart and blood pressure medication,69,80.09,Cardiovascular,true
+MOlol,Heart and blood pressure medication,618,6.93,Cardiovascular,true
+ODipine 322mg,Heart and blood pressure medication,705,75.7,Cardiovascular,true
+VDipine,Heart and blood pressure medication,572,51.45,Cardiovascular,true
+SPril,Heart and blood pressure medication,416,36.6,Cardiovascular,true
+NPril 179mg,Heart and blood pressure medication,426,16.38,Cardiovascular,true
+IOlol,Heart and blood pressure medication,131,59.5,Cardiovascular,true
+GPril,Heart and blood pressure medication,506,75.81,Cardiovascular,true
+VDipine 78mg,Heart and blood pressure medication,258,58.74,Cardiovascular,true
+ODipine,Heart and blood pressure medication,654,59.55,Cardiovascular,true
+FSartan,Heart and blood pressure medication,440,65.75,Cardiovascular,true
+RDipine 419mg,Heart and blood pressure medication,402,37.45,Cardiovascular,true
+PDipine,Heart and blood pressure medication,31,11.88,Cardiovascular,true
+COlol,Heart and blood pressure medication,152,21.56,Cardiovascular,true
+EDipine 248mg,Heart and blood pressure medication,327,24.13,Cardiovascular,true
+NDipine,Heart and blood pressure medication,591,31.3,Cardiovascular,true
+CSartan,Heart and blood pressure medication,524,23.96,Cardiovascular,true
+IOlol 129mg,Heart and blood pressure medication,38,25.19,Cardiovascular,true
+GPril,Heart and blood pressure medication,84,48.08,Cardiovascular,true
+MSartan,Heart and blood pressure medication,487,38.06,Cardiovascular,true
+MPril 312mg,Heart and blood pressure medication,725,55.05,Cardiovascular,true
+LOlol,Heart and blood pressure medication,661,32.91,Cardiovascular,true
+NOlol,Heart and blood pressure medication,713,10.19,Cardiovascular,true
+TSartan 270mg,Heart and blood pressure medication,397,23.86,Cardiovascular,true
+PSartan,Heart and blood pressure medication,192,82.83,Cardiovascular,true
+AOlol,Heart and blood pressure medication,462,55.85,Cardiovascular,true
+MOlol 242mg,Heart and blood pressure medication,341,74.19,Cardiovascular,true
+EOlol,Heart and blood pressure medication,542,42.02,Cardiovascular,true
+RDipine,Heart and blood pressure medication,179,42.81,Cardiovascular,true
+VDipine 451mg,Heart and blood pressure medication,782,65.7,Cardiovascular,true
+FDipine,Heart and blood pressure medication,234,5.08,Cardiovascular,true
+ZSartan,Heart and blood pressure medication,400,50.2,Cardiovascular,true
+ZPril 493mg,Heart and blood pressure medication,784,36.46,Cardiovascular,true
+ODipine,Heart and blood pressure medication,94,44.86,Cardiovascular,true
+CDipine,Heart and blood pressure medication,325,68.35,Cardiovascular,true
+ODipine 278mg,Heart and blood pressure medication,28,60.22,Cardiovascular,true
+OPril,Heart and blood pressure medication,73,72.32,Cardiovascular,true
+TOlol,Heart and blood pressure medication,754,11.19,Cardiovascular,true
+LOlol 457mg,Heart and blood pressure medication,411,78.41,Cardiovascular,true
+COlol,Heart and blood pressure medication,75,59.46,Cardiovascular,true
+TSartan,Heart and blood pressure medication,595,9.55,Cardiovascular,true
+SOlol 59mg,Heart and blood pressure medication,406,69.63,Cardiovascular,true
+HDipine,Heart and blood pressure medication,145,4.55,Cardiovascular,true
+GOlol,Heart and blood pressure medication,658,12.12,Cardiovascular,true
+MPril 451mg,Heart and blood pressure medication,223,85.95,Cardiovascular,true
+BSartan,Heart and blood pressure medication,639,11.56,Cardiovascular,true
+MPril,Heart and blood pressure medication,76,67.64,Cardiovascular,true
+PSartan 224mg,Heart and blood pressure medication,681,23.84,Cardiovascular,true
+ESartan,Heart and blood pressure medication,114,31.34,Cardiovascular,true
+LOlol,Heart and blood pressure medication,503,65.01,Cardiovascular,true
+RSartan 350mg,Heart and blood pressure medication,475,49.4,Cardiovascular,true
+GOlol,Heart and blood pressure medication,669,30.5,Cardiovascular,true
+ZSartan,Heart and blood pressure medication,577,48.84,Cardiovascular,true
+ASartan 383mg,Heart and blood pressure medication,574,87.66,Cardiovascular,true
+OPril,Heart and blood pressure medication,526,67.96,Cardiovascular,true
+TOlol,Heart and blood pressure medication,769,54.72,Cardiovascular,true
+NDipine 15mg,Heart and blood pressure medication,562,84.64,Cardiovascular,true
+NOlol,Heart and blood pressure medication,132,8.21,Cardiovascular,true
+RSartan,Heart and blood pressure medication,745,26.82,Cardiovascular,true
+HPril 255mg,Heart and blood pressure medication,192,76.44,Cardiovascular,true
+FOlol,Heart and blood pressure medication,243,41.57,Cardiovascular,true
+SPril,Heart and blood pressure medication,701,29.14,Cardiovascular,true
+IDipine 309mg,Heart and blood pressure medication,438,38.34,Cardiovascular,true
+ZOlol,Heart and blood pressure medication,453,17.04,Cardiovascular,true
+CPril,Heart and blood pressure medication,205,21.39,Cardiovascular,true
+LSartan 106mg,Heart and blood pressure medication,357,6.64,Cardiovascular,true
+HOlol,Heart and blood pressure medication,359,70.94,Cardiovascular,true
+FDipine,Heart and blood pressure medication,431,33.91,Cardiovascular,true
+OOlol 111mg,Heart and blood pressure medication,564,10.03,Cardiovascular,true
+DSartan,Heart and blood pressure medication,691,18.35,Cardiovascular,true
+AFormin 45mg,Blood sugar management,339,62.14,Diabetes,true
+VGliflozin,Blood sugar management,553,29.47,Diabetes,true
+MFormin,Blood sugar management,54,44.89,Diabetes,true
+PGliflozin 458mg,Blood sugar management,165,72.8,Diabetes,true
+ZGliflozin,Blood sugar management,591,56.69,Diabetes,true
+EFormin,Blood sugar management,233,34.96,Diabetes,true
+GFormin 469mg,Blood sugar management,235,75.79,Diabetes,true
+EGliptin,Blood sugar management,133,51.53,Diabetes,true
+TGliflozin,Blood sugar management,717,14.1,Diabetes,true
+AGliflozin 434mg,Blood sugar management,309,51.36,Diabetes,true
+GFormin,Blood sugar management,28,38.88,Diabetes,true
+SFormin,Blood sugar management,202,85.83,Diabetes,true
+GGliflozin 16mg,Blood sugar management,560,48.4,Diabetes,true
+FFormin,Blood sugar management,613,4.04,Diabetes,true
+CGliflozin,Blood sugar management,328,46.11,Diabetes,true
+OGliflozin 116mg,Blood sugar management,635,23.65,Diabetes,true
+HGliflozin,Blood sugar management,580,57.38,Diabetes,true
+GFormin,Blood sugar management,310,73.81,Diabetes,true
+AFormin 144mg,Blood sugar management,535,77.24,Diabetes,true
+SGliptin,Blood sugar management,715,15.24,Diabetes,true
+OGliptin,Blood sugar management,729,34.99,Diabetes,true
+SGliptin 405mg,Blood sugar management,676,41.59,Diabetes,true
+AGliptin,Blood sugar management,487,50.07,Diabetes,true
+IGliptin,Blood sugar management,692,19.07,Diabetes,true
+BGliflozin 484mg,Blood sugar management,610,34.43,Diabetes,true
+GFormin,Blood sugar management,135,83.23,Diabetes,true
+PGliflozin,Blood sugar management,740,32.36,Diabetes,true
+OGliflozin 375mg,Blood sugar management,357,16.56,Diabetes,true
+FFormin,Blood sugar management,327,10.6,Diabetes,true
+RGliptin,Blood sugar management,47,50.36,Diabetes,true
+MGliptin 437mg,Blood sugar management,737,88.61,Diabetes,true
+LGliptin,Blood sugar management,673,39.5,Diabetes,true
+BGliflozin,Blood sugar management,286,49.13,Diabetes,true
+IFormin 94mg,Blood sugar management,358,18.33,Diabetes,true
+IFormin,Blood sugar management,293,44.21,Diabetes,true
+LFormin,Blood sugar management,191,64.71,Diabetes,true
+MGliflozin 260mg,Blood sugar management,738,6.6,Diabetes,true
+TGliptin,Blood sugar management,759,42.65,Diabetes,true
+TGliptin,Blood sugar management,210,66.21,Diabetes,true
+CGliptin 402mg,Blood sugar management,279,10.37,Diabetes,true
+ZGliptin,Blood sugar management,105,39.44,Diabetes,true
+ZFormin,Blood sugar management,596,30.25,Diabetes,true
+EFormin 199mg,Blood sugar management,250,77.55,Diabetes,true
+BFormin,Blood sugar management,394,31.5,Diabetes,true
+NGliflozin,Blood sugar management,267,83.15,Diabetes,true
+EGliflozin 348mg,Blood sugar management,80,33.17,Diabetes,true
+NGliflozin,Blood sugar management,237,65.71,Diabetes,true
+IGliptin,Blood sugar management,458,63.68,Diabetes,true
+NGliptin 313mg,Blood sugar management,199,17.41,Diabetes,true
+DFormin,Blood sugar management,72,9.21,Diabetes,true
+LFormin,Blood sugar management,428,32.48,Diabetes,true
+PFormin 384mg,Blood sugar management,583,25.58,Diabetes,true
+OGliptin,Blood sugar management,67,19.13,Diabetes,true
+GFormin,Blood sugar management,531,52.39,Diabetes,true
+VGliflozin 434mg,Blood sugar management,571,64.17,Diabetes,true
+PGliptin,Blood sugar management,766,72.11,Diabetes,true
+SGliptin,Blood sugar management,383,29.22,Diabetes,true
+SGliflozin 92mg,Blood sugar management,283,44.36,Diabetes,true
+CFormin,Blood sugar management,715,8.1,Diabetes,true
+LGliflozin,Blood sugar management,414,74.98,Diabetes,true
+CGliflozin 94mg,Blood sugar management,544,27.91,Diabetes,true
+MFormin,Blood sugar management,39,60.49,Diabetes,true
+PGliflozin,Blood sugar management,454,72.44,Diabetes,true
+CGliflozin 474mg,Blood sugar management,103,23.64,Diabetes,true
+PGliptin,Blood sugar management,41,16.4,Diabetes,true
+PFormin,Blood sugar management,700,89.8,Diabetes,true
+NGliflozin 179mg,Blood sugar management,237,31.52,Diabetes,true
+BGliptin,Blood sugar management,85,27.75,Diabetes,true
+AFormin,Blood sugar management,728,52.95,Diabetes,true
+FFormin 470mg,Blood sugar management,150,75.58,Diabetes,true
+MFormin,Blood sugar management,281,20.67,Diabetes,true
+MGliptin,Blood sugar management,449,61.28,Diabetes,true
+HGliflozin 27mg,Blood sugar management,794,61.69,Diabetes,true
+FGliptin,Blood sugar management,28,11.52,Diabetes,true
+SGliptin,Blood sugar management,228,77.66,Diabetes,true
+BGliflozin 245mg,Blood sugar management,73,46.78,Diabetes,true
+PGliflozin,Blood sugar management,620,32.03,Diabetes,true
+SGliflozin,Blood sugar management,705,60.82,Diabetes,true
+BGliptin 297mg,Blood sugar management,28,21.57,Diabetes,true
+NGliflozin,Blood sugar management,740,19.0,Diabetes,true
+GGliflozin,Blood sugar management,467,31.5,Diabetes,true
+FGliptin 46mg,Blood sugar management,217,25.53,Diabetes,true
+IGliflozin,Blood sugar management,243,52.0,Diabetes,true
+DGliptin,Blood sugar management,453,85.69,Diabetes,true
+FGliptin 388mg,Blood sugar management,784,46.8,Diabetes,true
+CFormin,Blood sugar management,223,81.39,Diabetes,true
+DGliflozin,Blood sugar management,251,50.35,Diabetes,true
+BFormin 333mg,Blood sugar management,524,56.31,Diabetes,true
+VGliptin,Blood sugar management,465,70.87,Diabetes,true
+PFormin,Blood sugar management,42,49.59,Diabetes,true
+VGliptin 138mg,Blood sugar management,375,39.87,Diabetes,true
+OFormin,Blood sugar management,112,43.41,Diabetes,true
+EGliptin,Blood sugar management,699,46.5,Diabetes,true
+MGliptin 78mg,Blood sugar management,567,12.91,Diabetes,true
+DGliflozin,Blood sugar management,350,20.11,Diabetes,true
+PFormin,Blood sugar management,323,37.66,Diabetes,true
+AFormin 162mg,Blood sugar management,755,59.55,Diabetes,true
+TGliptin,Blood sugar management,794,54.73,Diabetes,true
+ZTerol 283mg,Breathing and lung treatment,22,37.66,Respiratory,true
+GSone,Breathing and lung treatment,548,89.71,Respiratory,true
+PTerol,Breathing and lung treatment,188,52.28,Respiratory,true
+MSone 482mg,Breathing and lung treatment,89,34.3,Respiratory,true
+TPhylline,Breathing and lung treatment,699,86.24,Respiratory,true
+NSone,Breathing and lung treatment,596,42.86,Respiratory,true
+CTerol 413mg,Breathing and lung treatment,114,54.47,Respiratory,true
+PPhylline,Breathing and lung treatment,414,53.33,Respiratory,true
+NPhylline,Breathing and lung treatment,595,80.08,Respiratory,true
+OPhylline 263mg,Breathing and lung treatment,60,41.52,Respiratory,true
+NPhylline,Breathing and lung treatment,620,59.64,Respiratory,true
+MTerol,Breathing and lung treatment,361,65.05,Respiratory,true
+IPhylline 401mg,Breathing and lung treatment,670,7.46,Respiratory,true
+NPhylline,Breathing and lung treatment,457,4.95,Respiratory,true
+ETerol,Breathing and lung treatment,69,33.84,Respiratory,true
+APhylline 52mg,Breathing and lung treatment,354,61.69,Respiratory,true
+FPhylline,Breathing and lung treatment,536,16.06,Respiratory,true
+HPhylline,Breathing and lung treatment,127,48.81,Respiratory,true
+ESone 211mg,Breathing and lung treatment,786,18.21,Respiratory,true
+LPhylline,Breathing and lung treatment,324,81.83,Respiratory,true
+MPhylline,Breathing and lung treatment,529,73.77,Respiratory,true
+RSone 193mg,Breathing and lung treatment,615,31.4,Respiratory,true
+ETerol,Breathing and lung treatment,299,71.29,Respiratory,true
+HSone,Breathing and lung treatment,52,67.65,Respiratory,true
+VSone 18mg,Breathing and lung treatment,781,60.96,Respiratory,true
+NTerol,Breathing and lung treatment,629,27.51,Respiratory,true
+VSone,Breathing and lung treatment,88,79.52,Respiratory,true
+FPhylline 486mg,Breathing and lung treatment,250,60.87,Respiratory,true
+IPhylline,Breathing and lung treatment,77,16.61,Respiratory,true
+VPhylline,Breathing and lung treatment,317,58.66,Respiratory,true
+OTerol 142mg,Breathing and lung treatment,798,75.04,Respiratory,true
+NSone,Breathing and lung treatment,664,63.81,Respiratory,true
+EPhylline,Breathing and lung treatment,450,49.49,Respiratory,true
+ATerol 400mg,Breathing and lung treatment,617,46.39,Respiratory,true
+MPhylline,Breathing and lung treatment,595,40.34,Respiratory,true
+OTerol,Breathing and lung treatment,41,10.04,Respiratory,true
+RPhylline 28mg,Breathing and lung treatment,389,62.22,Respiratory,true
+GPhylline,Breathing and lung treatment,601,42.56,Respiratory,true
+DSone,Breathing and lung treatment,786,57.83,Respiratory,true
+ZTerol 71mg,Breathing and lung treatment,673,84.01,Respiratory,true
+DPhylline,Breathing and lung treatment,786,53.57,Respiratory,true
+ESone,Breathing and lung treatment,214,38.12,Respiratory,true
+ETerol 401mg,Breathing and lung treatment,218,7.99,Respiratory,true
+NPhylline,Breathing and lung treatment,757,10.1,Respiratory,true
+ASone,Breathing and lung treatment,754,63.17,Respiratory,true
+VPhylline 444mg,Breathing and lung treatment,733,77.8,Respiratory,true
+APhylline,Breathing and lung treatment,595,62.65,Respiratory,true
+STerol,Breathing and lung treatment,532,68.25,Respiratory,true
+OPhylline 26mg,Breathing and lung treatment,676,47.32,Respiratory,true
+GSone,Breathing and lung treatment,399,35.81,Respiratory,true
+VPhylline,Breathing and lung treatment,475,68.69,Respiratory,true
+LPhylline 421mg,Breathing and lung treatment,186,87.77,Respiratory,true
+OPhylline,Breathing and lung treatment,71,31.92,Respiratory,true
+GPhylline,Breathing and lung treatment,601,60.53,Respiratory,true
+STerol 15mg,Breathing and lung treatment,591,64.14,Respiratory,true
+IPhylline,Breathing and lung treatment,733,74.83,Respiratory,true
+ITerol,Breathing and lung treatment,736,79.1,Respiratory,true
+MSone 269mg,Breathing and lung treatment,728,37.6,Respiratory,true
+BPhylline,Breathing and lung treatment,31,27.05,Respiratory,true
+ZTerol,Breathing and lung treatment,449,44.91,Respiratory,true
+CTerol 13mg,Breathing and lung treatment,70,35.43,Respiratory,true
+ISone,Breathing and lung treatment,395,55.61,Respiratory,true
+CTerol,Breathing and lung treatment,580,37.77,Respiratory,true
+NPhylline 414mg,Breathing and lung treatment,86,17.61,Respiratory,true
+ZPhylline,Breathing and lung treatment,559,24.41,Respiratory,true
+VSone,Breathing and lung treatment,396,10.89,Respiratory,true
+ATerol 210mg,Breathing and lung treatment,560,27.09,Respiratory,true
+EPhylline,Breathing and lung treatment,737,55.28,Respiratory,true
+DSone,Breathing and lung treatment,472,54.76,Respiratory,true
+RPhylline 227mg,Breathing and lung treatment,85,60.51,Respiratory,true
+PTerol,Breathing and lung treatment,339,61.9,Respiratory,true
+FSone,Breathing and lung treatment,69,11.26,Respiratory,true
+LPhylline 231mg,Breathing and lung treatment,797,16.71,Respiratory,true
+ATerol,Breathing and lung treatment,39,49.25,Respiratory,true
+PSone,Breathing and lung treatment,132,42.44,Respiratory,true
+LTerol 359mg,Breathing and lung treatment,444,36.45,Respiratory,true
+IPhylline,Breathing and lung treatment,675,77.48,Respiratory,true
+LTerol,Breathing and lung treatment,408,9.86,Respiratory,true
+SSone 326mg,Breathing and lung treatment,305,34.57,Respiratory,true
+FPhylline,Breathing and lung treatment,794,8.08,Respiratory,true
+HSone,Breathing and lung treatment,379,71.5,Respiratory,true
+IPhylline 119mg,Breathing and lung treatment,618,18.84,Respiratory,true
+VPhylline,Breathing and lung treatment,61,64.32,Respiratory,true
+ISone,Breathing and lung treatment,530,86.29,Respiratory,true
+PSone 436mg,Breathing and lung treatment,303,29.78,Respiratory,true
+FPhylline,Breathing and lung treatment,305,10.45,Respiratory,true
+DTerol,Breathing and lung treatment,495,13.52,Respiratory,true
+RTerol 288mg,Breathing and lung treatment,648,31.1,Respiratory,true
+TPhylline,Breathing and lung treatment,44,67.49,Respiratory,true
+TSone,Breathing and lung treatment,664,52.69,Respiratory,true
+RSone 479mg,Breathing and lung treatment,510,26.49,Respiratory,true
+NTerol,Breathing and lung treatment,539,10.42,Respiratory,true
+TSone,Breathing and lung treatment,34,55.99,Respiratory,true
+SPhylline 184mg,Breathing and lung treatment,54,17.92,Respiratory,true
+FPhylline,Breathing and lung treatment,457,28.92,Respiratory,true
+VPhylline,Breathing and lung treatment,736,37.64,Respiratory,true
+TSone 122mg,Breathing and lung treatment,127,85.45,Respiratory,true
+GTerol,Breathing and lung treatment,227,15.22,Respiratory,true
+TTidine 133mg,Digestive system treatment,205,87.11,Gastrointestinal,false
+LPrazole,Digestive system treatment,447,22.16,Gastrointestinal,true
+OTidine,Digestive system treatment,177,26.21,Gastrointestinal,true
+ATidine 43mg,Digestive system treatment,764,19.87,Gastrointestinal,true
+TTidine,Digestive system treatment,718,51.05,Gastrointestinal,true
+OPeridone,Digestive system treatment,295,62.43,Gastrointestinal,false
+ETidine 114mg,Digestive system treatment,771,49.35,Gastrointestinal,false
+ZTidine,Digestive system treatment,673,61.47,Gastrointestinal,false
+CTidine,Digestive system treatment,369,85.01,Gastrointestinal,true
+OPrazole 374mg,Digestive system treatment,629,87.76,Gastrointestinal,false
+VTidine,Digestive system treatment,694,55.24,Gastrointestinal,false
+LTidine,Digestive system treatment,706,37.37,Gastrointestinal,false
+GTidine 165mg,Digestive system treatment,298,82.8,Gastrointestinal,false
+ITidine,Digestive system treatment,708,75.44,Gastrointestinal,true
+IPrazole,Digestive system treatment,315,83.64,Gastrointestinal,true
+RPrazole 42mg,Digestive system treatment,250,63.79,Gastrointestinal,false
+MPrazole,Digestive system treatment,431,25.35,Gastrointestinal,true
+ZTidine,Digestive system treatment,136,56.3,Gastrointestinal,false
+ETidine 162mg,Digestive system treatment,273,8.47,Gastrointestinal,false
+OPeridone,Digestive system treatment,100,66.78,Gastrointestinal,false
+FTidine,Digestive system treatment,742,89.48,Gastrointestinal,false
+PPeridone 465mg,Digestive system treatment,333,16.04,Gastrointestinal,true
+NPrazole,Digestive system treatment,575,4.28,Gastrointestinal,false
+APeridone,Digestive system treatment,65,85.97,Gastrointestinal,false
+GTidine 234mg,Digestive system treatment,307,75.13,Gastrointestinal,false
+CTidine,Digestive system treatment,700,82.95,Gastrointestinal,false
+LPrazole,Digestive system treatment,782,84.8,Gastrointestinal,false
+PPeridone 405mg,Digestive system treatment,255,89.24,Gastrointestinal,true
+STidine,Digestive system treatment,611,63.57,Gastrointestinal,false
+ITidine,Digestive system treatment,610,77.77,Gastrointestinal,true
+RPeridone 445mg,Digestive system treatment,406,15.59,Gastrointestinal,true
+GTidine,Digestive system treatment,176,38.04,Gastrointestinal,false
+SPeridone,Digestive system treatment,243,43.9,Gastrointestinal,false
+CPeridone 282mg,Digestive system treatment,346,25.06,Gastrointestinal,true
+IPrazole,Digestive system treatment,504,52.79,Gastrointestinal,true
+OPrazole,Digestive system treatment,412,31.08,Gastrointestinal,true
+MTidine 445mg,Digestive system treatment,561,4.62,Gastrointestinal,false
+MPrazole,Digestive system treatment,71,13.13,Gastrointestinal,false
+DPeridone,Digestive system treatment,70,78.07,Gastrointestinal,false
+ZPeridone 225mg,Digestive system treatment,195,61.14,Gastrointestinal,false
+HTidine,Digestive system treatment,552,60.82,Gastrointestinal,false
+TTidine,Digestive system treatment,351,8.6,Gastrointestinal,false
+PPeridone 34mg,Digestive system treatment,461,87.72,Gastrointestinal,false
+DPrazole,Digestive system treatment,344,52.01,Gastrointestinal,false
+PTidine,Digestive system treatment,706,4.16,Gastrointestinal,false
+DTidine 79mg,Digestive system treatment,349,61.37,Gastrointestinal,true
+NTidine,Digestive system treatment,114,11.71,Gastrointestinal,false
+LPeridone,Digestive system treatment,775,83.63,Gastrointestinal,false
+TPrazole 403mg,Digestive system treatment,82,52.85,Gastrointestinal,false
+RPrazole,Digestive system treatment,691,29.7,Gastrointestinal,false
+APeridone,Digestive system treatment,589,82.39,Gastrointestinal,false
+HPrazole 327mg,Digestive system treatment,240,37.91,Gastrointestinal,false
+ETidine,Digestive system treatment,348,78.19,Gastrointestinal,false
+FPeridone,Digestive system treatment,268,17.76,Gastrointestinal,false
+LPrazole 239mg,Digestive system treatment,263,40.95,Gastrointestinal,false
+NPeridone,Digestive system treatment,538,32.3,Gastrointestinal,true
+ETidine,Digestive system treatment,347,12.35,Gastrointestinal,false
+NTidine 197mg,Digestive system treatment,437,32.06,Gastrointestinal,true
+ZPrazole,Digestive system treatment,317,73.53,Gastrointestinal,false
+RPeridone,Digestive system treatment,772,59.14,Gastrointestinal,false
+TPrazole 208mg,Digestive system treatment,583,88.33,Gastrointestinal,true
+BTidine,Digestive system treatment,70,75.48,Gastrointestinal,true
+ITidine,Digestive system treatment,23,26.63,Gastrointestinal,true
+VPeridone 21mg,Digestive system treatment,555,9.22,Gastrointestinal,true
+FTidine,Digestive system treatment,747,65.38,Gastrointestinal,false
+MTidine,Digestive system treatment,610,88.49,Gastrointestinal,false
+APrazole 126mg,Digestive system treatment,256,60.3,Gastrointestinal,true
+FTidine,Digestive system treatment,181,10.38,Gastrointestinal,false
+SPrazole,Digestive system treatment,150,86.56,Gastrointestinal,false
+OPeridone 185mg,Digestive system treatment,601,82.69,Gastrointestinal,false
+OTidine,Digestive system treatment,756,58.4,Gastrointestinal,false
+EPeridone,Digestive system treatment,61,53.62,Gastrointestinal,false
+SPeridone 44mg,Digestive system treatment,557,47.91,Gastrointestinal,false
+VPrazole,Digestive system treatment,68,37.77,Gastrointestinal,false
+GTidine,Digestive system treatment,469,5.29,Gastrointestinal,false
+STidine 25mg,Digestive system treatment,221,49.43,Gastrointestinal,true
+DPrazole,Digestive system treatment,417,87.3,Gastrointestinal,true
+CPrazole,Digestive system treatment,665,55.57,Gastrointestinal,false
+MTidine 482mg,Digestive system treatment,331,16.97,Gastrointestinal,true
+GTidine,Digestive system treatment,240,64.79,Gastrointestinal,false
+ITidine,Digestive system treatment,473,51.65,Gastrointestinal,false
+EPeridone 323mg,Digestive system treatment,780,47.24,Gastrointestinal,false
+CPrazole,Digestive system treatment,322,58.73,Gastrointestinal,false
+NPrazole,Digestive system treatment,640,20.67,Gastrointestinal,false
+GPrazole 416mg,Digestive system treatment,600,25.44,Gastrointestinal,false
+FPeridone,Digestive system treatment,225,69.28,Gastrointestinal,false
+CPrazole,Digestive system treatment,193,13.18,Gastrointestinal,true
+HTidine 452mg,Digestive system treatment,182,53.81,Gastrointestinal,true
+LTidine,Digestive system treatment,423,80.37,Gastrointestinal,false
+LPrazole,Digestive system treatment,61,87.58,Gastrointestinal,false
+GPeridone 104mg,Digestive system treatment,762,59.36,Gastrointestinal,false
+GPeridone,Digestive system treatment,272,34.22,Gastrointestinal,false
+BPrazole,Digestive system treatment,544,37.72,Gastrointestinal,false
+ZPeridone 141mg,Digestive system treatment,224,70.6,Gastrointestinal,true
+EPeridone,Digestive system treatment,606,88.19,Gastrointestinal,true
+VPeridone,Digestive system treatment,411,73.88,Gastrointestinal,true
+FPrazole 414mg,Digestive system treatment,238,78.35,Gastrointestinal,false
+IPeridone,Digestive system treatment,597,26.67,Gastrointestinal,true
+PCort 39mg,Skin condition treatment,464,9.0,Dermatology,false
+IAzole,Skin condition treatment,41,69.81,Dermatology,false
+FAzole,Skin condition treatment,322,71.29,Dermatology,true
+ECort 99mg,Skin condition treatment,621,11.64,Dermatology,false
+ZAzole,Skin condition treatment,424,40.57,Dermatology,false
+IAzole,Skin condition treatment,614,80.66,Dermatology,false
+LCort 66mg,Skin condition treatment,29,7.0,Dermatology,false
+NConazole,Skin condition treatment,795,15.35,Dermatology,false
+EConazole,Skin condition treatment,244,5.43,Dermatology,false
+LCort 333mg,Skin condition treatment,189,65.29,Dermatology,true
+BAzole,Skin condition treatment,536,36.5,Dermatology,true
+MCort,Skin condition treatment,535,87.04,Dermatology,true
+TAzole 318mg,Skin condition treatment,704,88.84,Dermatology,false
+FCort,Skin condition treatment,372,88.09,Dermatology,false
+ICort,Skin condition treatment,590,79.96,Dermatology,true
+ZConazole 264mg,Skin condition treatment,506,46.1,Dermatology,false
+DCort,Skin condition treatment,614,70.65,Dermatology,false
+VAzole,Skin condition treatment,451,41.52,Dermatology,false
+HCort 327mg,Skin condition treatment,22,69.25,Dermatology,false
+TCort,Skin condition treatment,502,62.75,Dermatology,false
+DCort,Skin condition treatment,417,44.08,Dermatology,false
+ZAzole 57mg,Skin condition treatment,568,42.18,Dermatology,false
+ZAzole,Skin condition treatment,362,10.29,Dermatology,false
+LCort,Skin condition treatment,281,71.26,Dermatology,true
+TAzole 346mg,Skin condition treatment,113,64.84,Dermatology,false
+HCort,Skin condition treatment,741,46.01,Dermatology,true
+DConazole,Skin condition treatment,743,17.31,Dermatology,false
+VAzole 176mg,Skin condition treatment,278,32.04,Dermatology,false
+AAzole,Skin condition treatment,467,79.93,Dermatology,false
+SCort,Skin condition treatment,195,20.08,Dermatology,false
+BCort 235mg,Skin condition treatment,187,69.29,Dermatology,false
+ZAzole,Skin condition treatment,283,49.41,Dermatology,true
+PConazole,Skin condition treatment,463,74.23,Dermatology,false
+GConazole 54mg,Skin condition treatment,348,17.83,Dermatology,false
+PCort,Skin condition treatment,652,79.21,Dermatology,false
+GAzole,Skin condition treatment,83,83.56,Dermatology,false
+BAzole 80mg,Skin condition treatment,695,36.63,Dermatology,false
+HAzole,Skin condition treatment,458,9.1,Dermatology,false
+PCort,Skin condition treatment,67,59.21,Dermatology,true
+ECort 84mg,Skin condition treatment,570,82.01,Dermatology,false
+RCort,Skin condition treatment,51,56.84,Dermatology,false
+HAzole,Skin condition treatment,760,71.04,Dermatology,true
+NAzole 319mg,Skin condition treatment,45,67.07,Dermatology,true
+VCort,Skin condition treatment,483,35.5,Dermatology,false
+OCort,Skin condition treatment,725,44.81,Dermatology,false
+ZConazole 18mg,Skin condition treatment,638,24.59,Dermatology,false
+FCort,Skin condition treatment,519,54.25,Dermatology,false
+ZAzole,Skin condition treatment,664,21.63,Dermatology,false
+RAzole 449mg,Skin condition treatment,39,27.46,Dermatology,true
+ACort,Skin condition treatment,627,85.61,Dermatology,true
+FAzole,Skin condition treatment,722,14.85,Dermatology,true
+IConazole 459mg,Skin condition treatment,241,14.87,Dermatology,false
+CAzole,Skin condition treatment,671,13.62,Dermatology,false
+IAzole,Skin condition treatment,119,10.69,Dermatology,false
+IAzole 184mg,Skin condition treatment,640,57.74,Dermatology,false
+MConazole,Skin condition treatment,310,76.6,Dermatology,false
+BCort,Skin condition treatment,498,26.71,Dermatology,false
+SCort 215mg,Skin condition treatment,589,27.5,Dermatology,false
+OConazole,Skin condition treatment,161,35.04,Dermatology,false
+CCort,Skin condition treatment,87,68.18,Dermatology,false
+VAzole 63mg,Skin condition treatment,263,38.67,Dermatology,true
+LConazole,Skin condition treatment,24,60.81,Dermatology,false
+LAzole,Skin condition treatment,652,35.56,Dermatology,true
+ICort 434mg,Skin condition treatment,94,56.65,Dermatology,true
+TCort,Skin condition treatment,617,32.64,Dermatology,false
+HCort,Skin condition treatment,791,16.34,Dermatology,false
+DAzole 198mg,Skin condition treatment,466,63.1,Dermatology,false
+AAzole,Skin condition treatment,756,58.37,Dermatology,false
+FCort,Skin condition treatment,636,42.98,Dermatology,false
+EAzole 281mg,Skin condition treatment,250,11.85,Dermatology,true
+NCort,Skin condition treatment,584,7.96,Dermatology,false
+DConazole,Skin condition treatment,409,5.54,Dermatology,false
+GConazole 268mg,Skin condition treatment,377,26.13,Dermatology,false
+LConazole,Skin condition treatment,766,25.04,Dermatology,false
+TAzole,Skin condition treatment,362,53.24,Dermatology,true
+VCort 232mg,Skin condition treatment,159,77.34,Dermatology,true
+OConazole,Skin condition treatment,559,30.28,Dermatology,true
+IAzole,Skin condition treatment,22,69.63,Dermatology,false
+ZAzole 31mg,Skin condition treatment,501,79.29,Dermatology,true
+HAzole,Skin condition treatment,730,65.09,Dermatology,false
+AAzole,Skin condition treatment,335,17.36,Dermatology,false
+ECort 138mg,Skin condition treatment,678,43.89,Dermatology,true
+LCort,Skin condition treatment,700,36.43,Dermatology,false
+MAzole,Skin condition treatment,80,45.76,Dermatology,true
+ICort 81mg,Skin condition treatment,310,17.0,Dermatology,false
+OCort,Skin condition treatment,162,76.8,Dermatology,true
+AConazole,Skin condition treatment,97,85.52,Dermatology,false
+SCort 240mg,Skin condition treatment,544,50.9,Dermatology,true
+PAzole,Skin condition treatment,526,36.75,Dermatology,false
+NConazole,Skin condition treatment,730,82.49,Dermatology,false
+ZCort 438mg,Skin condition treatment,318,9.68,Dermatology,false
+MConazole,Skin condition treatment,158,74.75,Dermatology,false
+ZConazole,Skin condition treatment,589,62.48,Dermatology,false
+VConazole 489mg,Skin condition treatment,399,4.14,Dermatology,true
+ZCort,Skin condition treatment,484,70.15,Dermatology,false
+BConazole,Skin condition treatment,267,49.67,Dermatology,false
+MAzole 465mg,Skin condition treatment,128,61.9,Dermatology,true
+ZCort,Skin condition treatment,281,34.5,Dermatology,false

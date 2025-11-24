@@ -37,20 +37,7 @@ app.use(helmet());
 
 // CORS - Configure allowed origins
 const corsOptions = {
-    origin: function (origin, callback) {
-        const allowedOrigins = process.env.CORS_ORIGINS
-            ? process.env.CORS_ORIGINS.split(',')
-            : ['http://localhost:3000'];
-
-        // Allow requests with no origin (like mobile apps or curl)
-        if (!origin) return callback(null, true);
-
-        if (allowedOrigins.indexOf(origin) !== -1) {
-            callback(null, true);
-        } else {
-            callback(new Error('Not allowed by CORS'));
-        }
-    },
+    origin: true, // Allow all origins (for testing only)
     credentials: true,
 };
 

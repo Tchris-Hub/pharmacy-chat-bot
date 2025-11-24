@@ -1,6 +1,236 @@
 question,answer,category,priority
 What are your opening hours?,We are open Monday-Friday 9am-6pm and Saturday 9am-2pm,General,10
-Do you deliver medicines?,Yes we offer free delivery for orders over $50 within 10km radius,Delivery,9
-How do I refill my prescription?,You can refill online through our website or call us at 555-0123,Prescriptions,8
-Do you accept insurance?,Yes we accept most major insurance plans. Please bring your insurance card,Insurance,7
-Can I return medicines?,Unopened medicines can be returned within 30 days with receipt,Returns,5
+Where are you located?,We have 5 locations across the city. Visit our website for addresses,General,9
+Do you have parking available?,"Yes, free parking is available at all our locations",General,8
+Can I speak to a pharmacist?,"Yes, our pharmacists are available during business hours for consultations",General,10
+Do you accept walk-ins?,"Yes, walk-ins are welcome. We also offer appointment booking",General,7
+What payment methods do you accept?,"We accept cash, credit cards, debit cards, and mobile payments",General,9
+Are you open on holidays?,We are closed on major holidays. Check our website for holiday hours,General,6
+Do you have a mobile app?,"Yes, download our app for easy prescription refills and delivery tracking",General,8
+How can I contact customer service?,Call us at 555-0123 or email support@pharmacy.com,General,9
+Do you offer health screenings?,"Yes, we offer blood pressure, glucose, and cholesterol screenings",General,7
+How do I refill my prescription?,You can refill online through our website or call us at 555-0123,Prescriptions,10
+How long does a prescription refill take?,Most refills are ready within 1-2 hours,Prescriptions,9
+Can I transfer my prescription from another pharmacy?,"Yes, we can transfer your prescription. Just provide us with the details",Prescriptions,9
+Do you offer automatic refills?,"Yes, sign up for our auto-refill program to never miss a dose",Prescriptions,8
+What if my prescription has expired?,"Contact your doctor for a new prescription, then submit it to us",Prescriptions,7
+Can I get a 90-day supply?,"Yes, for maintenance medications with insurance approval",Prescriptions,8
+Do you send refill reminders?,"Yes, we send SMS and email reminders when refills are due",Prescriptions,7
+Can family members pick up my prescription?,"Yes, with proper authorization and ID verification",Prescriptions,8
+What if my medication is out of stock?,We will order it immediately and notify you when ready,Prescriptions,7
+Do you compound medications?,"Yes, we offer custom compounding services",Prescriptions,6
+Do you deliver medicines?,"Yes, we offer free delivery for orders over \ within 10km radius",Delivery,10
+What is the delivery timeframe?,Same-day delivery for orders placed before 2pm,Delivery,9
+Is there a delivery fee?,"Free for orders over \, otherwise \ delivery fee",Delivery,9
+Can I track my delivery?,"Yes, you will receive a tracking link via SMS",Delivery,8
+Do you deliver on weekends?,"Yes, weekend delivery available for urgent medications",Delivery,7
+What areas do you deliver to?,We deliver within 20km of our locations,Delivery,8
+Can I schedule a delivery time?,"Yes, you can choose a preferred delivery window",Delivery,7
+What if I am not home during delivery?,We can leave it at your door or with a neighbor per your instructions,Delivery,6
+Do you deliver controlled substances?,"Yes, with signature required upon delivery",Delivery,8
+Can I cancel a delivery?,"Yes, cancel up to 1 hour before scheduled delivery time",Delivery,6
+Do you accept insurance?,"Yes, we accept most major insurance plans",Insurance,10
+How do I submit my insurance information?,Provide your insurance card when dropping off prescriptions,Insurance,9
+What if my insurance doesn't cover a medication?,We can suggest generic alternatives or discount programs,Insurance,9
+Do you bill insurance directly?,"Yes, we bill your insurance directly for covered medications",Insurance,8
+What is a copay?,Your copay is the amount you pay after insurance coverage,Insurance,7
+Can I use HSA/FSA cards?,"Yes, we accept HSA and FSA cards for eligible purchases",Insurance,8
+What if my claim is rejected?,We will work with your insurance to resolve claim issues,Insurance,7
+Do you accept Medicare?,"Yes, we accept Medicare Part D plans",Insurance,9
+Can I get a receipt for my insurance?,"Yes, we provide detailed receipts for all transactions",Insurance,6
+What if I don't have insurance?,We offer discount programs and generic options,Insurance,8
+Do you carry all medications?,We stock most common medications and can order others within 24 hours,Medicines,8
+Can I get generic versions?,"Yes, we offer generic alternatives when available to save you money",Medicines,9
+How do I know if a medication is safe?,Our pharmacists review all medications for interactions and safety,Medicines,8
+What are side effects?,Ask our pharmacist about potential side effects of your medication,Medicines,7
+Can I take medications together?,Our pharmacist will check for drug interactions,Medicines,9
+How should I store my medication?,"Follow storage instructions on the label, usually room temperature",Medicines,6
+What if I miss a dose?,Take it as soon as you remember unless it's close to the next dose,Medicines,7
+Can I drink alcohol with my medication?,Check with our pharmacist as some medications interact with alcohol,Medicines,8
+Do medications expire?,"Yes, check expiration dates and dispose of expired medications properly",Medicines,7
+Can I split tablets?,Only if your doctor approves and the tablet is scored,Medicines,6
+Can I return medicines?,Unopened medicines can be returned within 30 days with receipt,Returns,8
+What is your return policy?,Full refund for unopened items within 30 days,Returns,8
+Can I return prescription medications?,Prescription medications cannot be returned once dispensed,Returns,7
+What about opened OTC items?,Opened over-the-counter items can be exchanged if defective,Returns,6
+How do I get a refund?,Bring item with receipt to any location for refund,Returns,7
+Can I exchange a medication?,"Yes, exchanges available for unopened items",Returns,7
+What if my medication is damaged?,We will replace damaged medications at no charge,Returns,8
+Is there a restocking fee?,No restocking fee for returns within 30 days,Returns,6
+Can I return vitamins?,"Yes, unopened vitamins can be returned within 30 days",Returns,6
+What if I received the wrong medication?,Contact us immediately for a replacement,Returns,9
+Do you offer flu shots?,"Yes, flu vaccines available seasonally, walk-ins welcome",Vaccines,9
+What vaccines do you provide?,"Flu, COVID-19, shingles, pneumonia, and travel vaccines",Vaccines,8
+Do I need an appointment for vaccines?,Appointments preferred but walk-ins accepted based on availability,Vaccines,8
+Does insurance cover vaccines?,Most insurance plans cover preventive vaccines,Vaccines,9
+Are vaccines safe?,"Yes, all vaccines are FDA-approved and safe",Vaccines,8
+Can children get vaccines here?,"Yes, we vaccinate ages 7 and up",Vaccines,7
+Do you have COVID-19 vaccines?,"Yes, we offer all approved COVID-19 vaccines",Vaccines,9
+What are vaccine side effects?,Mild side effects like soreness are common and temporary,Vaccines,7
+Can I get multiple vaccines at once?,"Yes, following CDC guidelines",Vaccines,6
+Do you keep vaccination records?,"Yes, we maintain digital records and provide cards",Vaccines,8
+How do I create an online account?,Visit our website and click Sign Up to create your account,Online Services,8
+Can I order refills online?,"Yes, log in to your account to request refills online",Online Services,9
+Is online ordering secure?,"Yes, we use encryption to protect your information",Online Services,8
+Can I upload my prescription online?,"Yes, use our mobile app or website to upload prescriptions",Online Services,8
+How do I reset my password?,Click Forgot Password on the login page and follow instructions,Online Services,6
+Can I chat with a pharmacist online?,"Yes, use our live chat feature during business hours",Online Services,7
+Do you have virtual consultations?,"Yes, book a video consultation with our pharmacists",Online Services,7
+Can I pay online?,"Yes, secure online payment available",Online Services,8
+How do I update my profile?,Log in and go to Account Settings to update information,Online Services,6
+Can I cancel an online order?,"Yes, cancel within 30 minutes of placing order",Online Services,7
+Who can benefit from health tips and wellness advice?,Our pharmacists can provide detailed information about health tips and wellness advice. Contact us for personalized advice.,Health & Wellness,5
+Where can I learn more about urgent care and emergencies?,urgent care and emergencies is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Emergency Care,2
+What is savings and discount programs?,We offer comprehensive services related to savings and discount programs. Ask our staff for more details.,Discount Programs,5
+When should I use health tips and wellness advice?,Our pharmacists can provide detailed information about health tips and wellness advice. Contact us for personalized advice.,Health & Wellness,4
+Why is urgent care and emergencies important?,urgent care and emergencies is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Emergency Care,2
+Can you explain savings and discount programs?,We offer comprehensive services related to savings and discount programs. Ask our staff for more details.,Discount Programs,1
+What is safe medication practices?,We offer comprehensive services related to safe medication practices. Ask our staff for more details.,Medication Safety,1
+Can you explain available pharmacy services?,We offer comprehensive services related to available pharmacy services. Ask our staff for more details.,Pharmacy Services,4
+Why is urgent care and emergencies important?,We offer comprehensive services related to urgent care and emergencies. Ask our staff for more details.,Emergency Care,1
+What is available pharmacy services?,Our pharmacists can provide detailed information about available pharmacy services. Contact us for personalized advice.,Pharmacy Services,3
+Where can I learn more about available pharmacy services?,available pharmacy services is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Pharmacy Services,1
+Who can benefit from health tips and wellness advice?,"For information about health tips and wellness advice, consult with our experienced pharmacy team.",Health & Wellness,4
+Why is urgent care and emergencies important?,Our pharmacists can provide detailed information about urgent care and emergencies. Contact us for personalized advice.,Emergency Care,4
+How does urgent care and emergencies work?,"For information about urgent care and emergencies, consult with our experienced pharmacy team.",Emergency Care,1
+Why is savings and discount programs important?,savings and discount programs is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Discount Programs,2
+What are the benefits of urgent care and emergencies?,"For information about urgent care and emergencies, consult with our experienced pharmacy team.",Emergency Care,2
+What are the benefits of safe medication practices?,We offer comprehensive services related to safe medication practices. Ask our staff for more details.,Medication Safety,2
+Can you explain health tips and wellness advice?,"For information about health tips and wellness advice, consult with our experienced pharmacy team.",Health & Wellness,3
+When should I use available pharmacy services?,available pharmacy services is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Pharmacy Services,3
+How does safe medication practices work?,safe medication practices is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Medication Safety,3
+Where can I learn more about available pharmacy services?,Our pharmacists can provide detailed information about available pharmacy services. Contact us for personalized advice.,Pharmacy Services,3
+Why is available pharmacy services important?,Our pharmacists can provide detailed information about available pharmacy services. Contact us for personalized advice.,Pharmacy Services,5
+How does urgent care and emergencies work?,urgent care and emergencies is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Emergency Care,2
+Who can benefit from health tips and wellness advice?,Our pharmacists can provide detailed information about health tips and wellness advice. Contact us for personalized advice.,Health & Wellness,5
+Where can I learn more about health tips and wellness advice?,"For information about health tips and wellness advice, consult with our experienced pharmacy team.",Health & Wellness,3
+When should I use urgent care and emergencies?,We offer comprehensive services related to urgent care and emergencies. Ask our staff for more details.,Emergency Care,3
+What is available pharmacy services?,"For information about available pharmacy services, consult with our experienced pharmacy team.",Pharmacy Services,3
+Can you explain savings and discount programs?,savings and discount programs is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Discount Programs,3
+What is health tips and wellness advice?,We offer comprehensive services related to health tips and wellness advice. Ask our staff for more details.,Health & Wellness,2
+How does available pharmacy services work?,We offer comprehensive services related to available pharmacy services. Ask our staff for more details.,Pharmacy Services,5
+Where can I learn more about savings and discount programs?,We offer comprehensive services related to savings and discount programs. Ask our staff for more details.,Discount Programs,2
+Can you explain savings and discount programs?,Our pharmacists can provide detailed information about savings and discount programs. Contact us for personalized advice.,Discount Programs,5
+Who can benefit from health tips and wellness advice?,We offer comprehensive services related to health tips and wellness advice. Ask our staff for more details.,Health & Wellness,5
+Where can I learn more about health tips and wellness advice?,Our pharmacists can provide detailed information about health tips and wellness advice. Contact us for personalized advice.,Health & Wellness,5
+What is safe medication practices?,Our pharmacists can provide detailed information about safe medication practices. Contact us for personalized advice.,Medication Safety,3
+Who can benefit from savings and discount programs?,Our pharmacists can provide detailed information about savings and discount programs. Contact us for personalized advice.,Discount Programs,1
+Who can benefit from safe medication practices?,safe medication practices is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Medication Safety,3
+Who can benefit from available pharmacy services?,"For information about available pharmacy services, consult with our experienced pharmacy team.",Pharmacy Services,4
+How does available pharmacy services work?,"For information about available pharmacy services, consult with our experienced pharmacy team.",Pharmacy Services,1
+When should I use urgent care and emergencies?,We offer comprehensive services related to urgent care and emergencies. Ask our staff for more details.,Emergency Care,4
+Who can benefit from available pharmacy services?,available pharmacy services is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Pharmacy Services,1
+What are the benefits of safe medication practices?,safe medication practices is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Medication Safety,3
+Where can I learn more about available pharmacy services?,"For information about available pharmacy services, consult with our experienced pharmacy team.",Pharmacy Services,5
+What are the benefits of safe medication practices?,Our pharmacists can provide detailed information about safe medication practices. Contact us for personalized advice.,Medication Safety,5
+Where can I learn more about savings and discount programs?,Our pharmacists can provide detailed information about savings and discount programs. Contact us for personalized advice.,Discount Programs,5
+Where can I learn more about savings and discount programs?,savings and discount programs is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Discount Programs,1
+What are the benefits of urgent care and emergencies?,"For information about urgent care and emergencies, consult with our experienced pharmacy team.",Emergency Care,3
+What are the benefits of available pharmacy services?,"For information about available pharmacy services, consult with our experienced pharmacy team.",Pharmacy Services,5
+Can you explain safe medication practices?,"For information about safe medication practices, consult with our experienced pharmacy team.",Medication Safety,5
+What is savings and discount programs?,Our pharmacists can provide detailed information about savings and discount programs. Contact us for personalized advice.,Discount Programs,4
+Why is savings and discount programs important?,We offer comprehensive services related to savings and discount programs. Ask our staff for more details.,Discount Programs,5
+Who can benefit from available pharmacy services?,Our pharmacists can provide detailed information about available pharmacy services. Contact us for personalized advice.,Pharmacy Services,5
+How does available pharmacy services work?,Our pharmacists can provide detailed information about available pharmacy services. Contact us for personalized advice.,Pharmacy Services,2
+How does safe medication practices work?,safe medication practices is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Medication Safety,3
+How does available pharmacy services work?,Our pharmacists can provide detailed information about available pharmacy services. Contact us for personalized advice.,Pharmacy Services,3
+Who can benefit from safe medication practices?,"For information about safe medication practices, consult with our experienced pharmacy team.",Medication Safety,4
+What are the benefits of savings and discount programs?,Our pharmacists can provide detailed information about savings and discount programs. Contact us for personalized advice.,Discount Programs,2
+What are the benefits of savings and discount programs?,savings and discount programs is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Discount Programs,1
+How does urgent care and emergencies work?,"For information about urgent care and emergencies, consult with our experienced pharmacy team.",Emergency Care,1
+What are the benefits of available pharmacy services?,Our pharmacists can provide detailed information about available pharmacy services. Contact us for personalized advice.,Pharmacy Services,5
+Where can I learn more about savings and discount programs?,savings and discount programs is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Discount Programs,2
+What are the benefits of safe medication practices?,Our pharmacists can provide detailed information about safe medication practices. Contact us for personalized advice.,Medication Safety,1
+When should I use urgent care and emergencies?,"For information about urgent care and emergencies, consult with our experienced pharmacy team.",Emergency Care,4
+Who can benefit from savings and discount programs?,savings and discount programs is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Discount Programs,2
+Where can I learn more about urgent care and emergencies?,"For information about urgent care and emergencies, consult with our experienced pharmacy team.",Emergency Care,3
+Why is urgent care and emergencies important?,urgent care and emergencies is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Emergency Care,5
+Where can I learn more about urgent care and emergencies?,urgent care and emergencies is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Emergency Care,1
+What are the benefits of safe medication practices?,"For information about safe medication practices, consult with our experienced pharmacy team.",Medication Safety,4
+When should I use health tips and wellness advice?,"For information about health tips and wellness advice, consult with our experienced pharmacy team.",Health & Wellness,3
+Why is savings and discount programs important?,Our pharmacists can provide detailed information about savings and discount programs. Contact us for personalized advice.,Discount Programs,1
+Can you explain safe medication practices?,We offer comprehensive services related to safe medication practices. Ask our staff for more details.,Medication Safety,1
+What are the benefits of available pharmacy services?,We offer comprehensive services related to available pharmacy services. Ask our staff for more details.,Pharmacy Services,5
+How does health tips and wellness advice work?,"For information about health tips and wellness advice, consult with our experienced pharmacy team.",Health & Wellness,5
+Who can benefit from health tips and wellness advice?,"For information about health tips and wellness advice, consult with our experienced pharmacy team.",Health & Wellness,5
+What are the benefits of available pharmacy services?,available pharmacy services is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Pharmacy Services,2
+Who can benefit from safe medication practices?,"For information about safe medication practices, consult with our experienced pharmacy team.",Medication Safety,1
+How does urgent care and emergencies work?,Our pharmacists can provide detailed information about urgent care and emergencies. Contact us for personalized advice.,Emergency Care,3
+Who can benefit from health tips and wellness advice?,"For information about health tips and wellness advice, consult with our experienced pharmacy team.",Health & Wellness,2
+Why is available pharmacy services important?,We offer comprehensive services related to available pharmacy services. Ask our staff for more details.,Pharmacy Services,1
+When should I use safe medication practices?,Our pharmacists can provide detailed information about safe medication practices. Contact us for personalized advice.,Medication Safety,4
+Where can I learn more about urgent care and emergencies?,"For information about urgent care and emergencies, consult with our experienced pharmacy team.",Emergency Care,2
+Who can benefit from available pharmacy services?,"For information about available pharmacy services, consult with our experienced pharmacy team.",Pharmacy Services,1
+Who can benefit from urgent care and emergencies?,We offer comprehensive services related to urgent care and emergencies. Ask our staff for more details.,Emergency Care,4
+How does urgent care and emergencies work?,urgent care and emergencies is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Emergency Care,1
+How does available pharmacy services work?,"For information about available pharmacy services, consult with our experienced pharmacy team.",Pharmacy Services,1
+Why is health tips and wellness advice important?,"For information about health tips and wellness advice, consult with our experienced pharmacy team.",Health & Wellness,4
+Where can I learn more about urgent care and emergencies?,urgent care and emergencies is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Emergency Care,1
+Who can benefit from health tips and wellness advice?,health tips and wellness advice is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Health & Wellness,1
+What is available pharmacy services?,We offer comprehensive services related to available pharmacy services. Ask our staff for more details.,Pharmacy Services,3
+Where can I learn more about health tips and wellness advice?,We offer comprehensive services related to health tips and wellness advice. Ask our staff for more details.,Health & Wellness,4
+Who can benefit from available pharmacy services?,"For information about available pharmacy services, consult with our experienced pharmacy team.",Pharmacy Services,2
+When should I use available pharmacy services?,We offer comprehensive services related to available pharmacy services. Ask our staff for more details.,Pharmacy Services,4
+Where can I learn more about health tips and wellness advice?,Our pharmacists can provide detailed information about health tips and wellness advice. Contact us for personalized advice.,Health & Wellness,4
+When should I use safe medication practices?,We offer comprehensive services related to safe medication practices. Ask our staff for more details.,Medication Safety,2
+How does health tips and wellness advice work?,"For information about health tips and wellness advice, consult with our experienced pharmacy team.",Health & Wellness,5
+What are the benefits of urgent care and emergencies?,Our pharmacists can provide detailed information about urgent care and emergencies. Contact us for personalized advice.,Emergency Care,5
+How does health tips and wellness advice work?,Our pharmacists can provide detailed information about health tips and wellness advice. Contact us for personalized advice.,Health & Wellness,3
+What are the benefits of urgent care and emergencies?,Our pharmacists can provide detailed information about urgent care and emergencies. Contact us for personalized advice.,Emergency Care,3
+How does health tips and wellness advice work?,Our pharmacists can provide detailed information about health tips and wellness advice. Contact us for personalized advice.,Health & Wellness,4
+Where can I learn more about savings and discount programs?,savings and discount programs is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Discount Programs,5
+What is urgent care and emergencies?,Our pharmacists can provide detailed information about urgent care and emergencies. Contact us for personalized advice.,Emergency Care,4
+What is savings and discount programs?,Our pharmacists can provide detailed information about savings and discount programs. Contact us for personalized advice.,Discount Programs,3
+What is health tips and wellness advice?,"For information about health tips and wellness advice, consult with our experienced pharmacy team.",Health & Wellness,3
+Why is urgent care and emergencies important?,Our pharmacists can provide detailed information about urgent care and emergencies. Contact us for personalized advice.,Emergency Care,1
+Where can I learn more about available pharmacy services?,We offer comprehensive services related to available pharmacy services. Ask our staff for more details.,Pharmacy Services,3
+What are the benefits of safe medication practices?,"For information about safe medication practices, consult with our experienced pharmacy team.",Medication Safety,1
+When should I use savings and discount programs?,"For information about savings and discount programs, consult with our experienced pharmacy team.",Discount Programs,2
+How does savings and discount programs work?,"For information about savings and discount programs, consult with our experienced pharmacy team.",Discount Programs,5
+Who can benefit from available pharmacy services?,Our pharmacists can provide detailed information about available pharmacy services. Contact us for personalized advice.,Pharmacy Services,1
+Where can I learn more about safe medication practices?,safe medication practices is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Medication Safety,3
+How does safe medication practices work?,Our pharmacists can provide detailed information about safe medication practices. Contact us for personalized advice.,Medication Safety,4
+What are the benefits of savings and discount programs?,"For information about savings and discount programs, consult with our experienced pharmacy team.",Discount Programs,2
+Where can I learn more about urgent care and emergencies?,Our pharmacists can provide detailed information about urgent care and emergencies. Contact us for personalized advice.,Emergency Care,1
+Who can benefit from health tips and wellness advice?,health tips and wellness advice is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Health & Wellness,5
+Who can benefit from health tips and wellness advice?,We offer comprehensive services related to health tips and wellness advice. Ask our staff for more details.,Health & Wellness,1
+Can you explain safe medication practices?,"For information about safe medication practices, consult with our experienced pharmacy team.",Medication Safety,2
+Why is available pharmacy services important?,available pharmacy services is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Pharmacy Services,5
+What is urgent care and emergencies?,"For information about urgent care and emergencies, consult with our experienced pharmacy team.",Emergency Care,1
+Who can benefit from health tips and wellness advice?,Our pharmacists can provide detailed information about health tips and wellness advice. Contact us for personalized advice.,Health & Wellness,2
+What is safe medication practices?,"For information about safe medication practices, consult with our experienced pharmacy team.",Medication Safety,5
+What is urgent care and emergencies?,"For information about urgent care and emergencies, consult with our experienced pharmacy team.",Emergency Care,4
+What is safe medication practices?,We offer comprehensive services related to safe medication practices. Ask our staff for more details.,Medication Safety,5
+Where can I learn more about safe medication practices?,We offer comprehensive services related to safe medication practices. Ask our staff for more details.,Medication Safety,2
+Can you explain health tips and wellness advice?,We offer comprehensive services related to health tips and wellness advice. Ask our staff for more details.,Health & Wellness,2
+What are the benefits of savings and discount programs?,Our pharmacists can provide detailed information about savings and discount programs. Contact us for personalized advice.,Discount Programs,1
+Can you explain urgent care and emergencies?,"For information about urgent care and emergencies, consult with our experienced pharmacy team.",Emergency Care,4
+What is urgent care and emergencies?,urgent care and emergencies is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Emergency Care,3
+Can you explain health tips and wellness advice?,health tips and wellness advice is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Health & Wellness,4
+How does savings and discount programs work?,savings and discount programs is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Discount Programs,5
+Where can I learn more about urgent care and emergencies?,Our pharmacists can provide detailed information about urgent care and emergencies. Contact us for personalized advice.,Emergency Care,5
+What are the benefits of safe medication practices?,Our pharmacists can provide detailed information about safe medication practices. Contact us for personalized advice.,Medication Safety,3
+When should I use health tips and wellness advice?,Our pharmacists can provide detailed information about health tips and wellness advice. Contact us for personalized advice.,Health & Wellness,1
+Who can benefit from available pharmacy services?,available pharmacy services is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Pharmacy Services,2
+What are the benefits of safe medication practices?,"For information about safe medication practices, consult with our experienced pharmacy team.",Medication Safety,2
+What are the benefits of safe medication practices?,Our pharmacists can provide detailed information about safe medication practices. Contact us for personalized advice.,Medication Safety,3
+What is health tips and wellness advice?,health tips and wellness advice is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Health & Wellness,4
+When should I use safe medication practices?,"For information about safe medication practices, consult with our experienced pharmacy team.",Medication Safety,3
+When should I use savings and discount programs?,Our pharmacists can provide detailed information about savings and discount programs. Contact us for personalized advice.,Discount Programs,3
+Why is urgent care and emergencies important?,urgent care and emergencies is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Emergency Care,5
+How does savings and discount programs work?,Our pharmacists can provide detailed information about savings and discount programs. Contact us for personalized advice.,Discount Programs,2
+Where can I learn more about available pharmacy services?,Our pharmacists can provide detailed information about available pharmacy services. Contact us for personalized advice.,Pharmacy Services,1
+What are the benefits of urgent care and emergencies?,We offer comprehensive services related to urgent care and emergencies. Ask our staff for more details.,Emergency Care,2
+Where can I learn more about savings and discount programs?,"For information about savings and discount programs, consult with our experienced pharmacy team.",Discount Programs,3
+What are the benefits of health tips and wellness advice?,health tips and wellness advice is an important aspect of healthcare. Visit our pharmacy for expert guidance.,Health & Wellness,4
+Who can benefit from health tips and wellness advice?,Our pharmacists can provide detailed information about health tips and wellness advice. Contact us for personalized advice.,Health & Wellness,5
+How does available pharmacy services work?,We offer comprehensive services related to available pharmacy services. Ask our staff for more details.,Pharmacy Services,3
+What is urgent care and emergencies?,"For information about urgent care and emergencies, consult with our experienced pharmacy team.",Emergency Care,3
+Where can I learn more about savings and discount programs?,We offer comprehensive services related to savings and discount programs. Ask our staff for more details.,Discount Programs,1
+How does health tips and wellness advice work?,We offer comprehensive services related to health tips and wellness advice. Ask our staff for more details.,Health & Wellness,5
+Can you explain urgent care and emergencies?,"For information about urgent care and emergencies, consult with our experienced pharmacy team.",Emergency Care,5
+When should I use urgent care and emergencies?,Our pharmacists can provide detailed information about urgent care and emergencies. Contact us for personalized advice.,Emergency Care,5
+Why is health tips and wellness advice important?,Our pharmacists can provide detailed information about health tips and wellness advice. Contact us for personalized advice.,Health & Wellness,4
+Why is savings and discount programs important?,Our pharmacists can provide detailed information about savings and discount programs. Contact us for personalized advice.,Discount Programs,1
+Who can benefit from available pharmacy services?,Our pharmacists can provide detailed information about available pharmacy services. Contact us for personalized advice.,Pharmacy Services,3
+Who can benefit from savings and discount programs?,We offer comprehensive services related to savings and discount programs. Ask our staff for more details.,Discount Programs,2
